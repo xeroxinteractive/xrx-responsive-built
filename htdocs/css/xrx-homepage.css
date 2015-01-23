@@ -1,0 +1,239 @@
+.xrx_bootstrap.x_homepage {
+  background-image: none !important;
+}
+.xrx_bootstrap.x_homepage .main .row div {
+  padding-right: 0;
+}
+.xrx_bootstrap.x_homepage .main .social-hub .blog-side li {
+  list-style: none;
+  position: relative;
+}
+.xrx_bootstrap.x_homepage .main .social-hub .blog-side li .blog-image {
+  height: 120px;
+  overflow: hidden;
+  display: block;
+}
+.xrx_bootstrap.x_homepage .main .social-hub .blog-side li .blog-image .date {
+  background: #333333;
+  width: 70px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  padding-top: 2px;
+}
+.xrx_bootstrap.x_homepage .main .social-hub .blog-side li .blog-image .date .day {
+  display: block;
+  font-size: 17px;
+}
+.xrx_bootstrap.x_homepage .main .social-hub .blog-side li:last-child {
+  display: none;
+}
+.xrx_bootstrap.x_homepage .main .social-hub .social-side .linkedin, .xrx_bootstrap.x_homepage .main .social-hub .social-side .twitter {
+  padding: 20px;
+  border: 1px solid #d7d7d7;
+}
+.xrx_bootstrap.x_homepage .main .social-hub .social-side .linkedin img {
+  width: 150px;
+  display: inline-block;
+}
+.xrx_bootstrap.x_homepage .main .social-hub .social-side .twitter {
+  margin-bottom: 20px;
+}
+.xrx_bootstrap.x_homepage .media-feature .embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.xrx_bootstrap.x_homepage .media-feature .embed-container iframe, .xrx_bootstrap.x_homepage .media-feature .embed-container object, .xrx_bootstrap.x_homepage .media-feature .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.xrx_bootstrap.x_homepage .media-feature .embed-container #player {
+  display: none;
+}
+.ie8 .xrx_bootstrap.x_homepage .media-feature .embed-container #player {
+  display: block;
+  z-index: 0;
+}
+.xrx_bootstrap.x_homepage .media-feature .embed-container img {
+  position: absolute;
+  z-index: 1;
+}
+
+@media screen and (min-width: 768px) {
+  .xrx_bootstrap.x_homepage .main .social-hub .blog-side li {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+@media screen and (min-width: 970px) {
+  .xrx_bootstrap.x_homepage .hero-grid .square-row .col-md-4 {
+    height: 250px;
+    background-repeat: no-repeat;
+  }
+  .xrx_bootstrap.x_homepage .hero-grid .col-md-12 {
+    height: 380px;
+    background-repeat: no-repeat;
+  }
+  .xrx_bootstrap.x_homepage .main-container {
+    padding: 0;
+  }
+  .xrx_bootstrap.x_homepage .main-container .main .row div {
+    padding-right: 0;
+  }
+  .xrx_bootstrap.x_homepage .main-container .search-list .media-body, .xrx_bootstrap.x_homepage .main-container .search-list .media-left, .xrx_bootstrap.x_homepage .main-container .search-list .media-right {
+    display: table-cell;
+    vertical-align: top;
+  }
+  .xrx_bootstrap.x_homepage .main-container .social-hub .blog-side li {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .xrx_bootstrap.x_homepage .main-container .social-hub .blog-side li .blog-image {
+    height: 85px;
+    display: inline-block;
+  }
+  .xrx_bootstrap.x_homepage .main-container .social-hub .blog-side li .blog-image img {
+    width: 90%;
+  }
+  .xrx_bootstrap.x_homepage .main-container .social-hub .blog-side li .blog-image:last-child {
+    display: inline-block;
+  }
+}
+.xrx_bootstrap .scale-slider {
+  padding: 0 20px;
+}
+.xrx_bootstrap .scale-slider .carousel-inner {
+  margin-bottom: 20px;
+  padding: 0;
+}
+.xrx_bootstrap .scale-slider .carousel-title {
+  font-size: 22px;
+  margin-top: 6px;
+  font-weight: bold;
+  max-height: 100%;
+}
+.xrx_bootstrap .scale-slider p {
+  font-size: 16px;
+  max-height: 100%;
+  margin-bottom: 0;
+}
+.xrx_bootstrap .scale-slider .btn-primary {
+  border-radius: 0;
+  font-size: 15px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.xrx_bootstrap .scale-slider .carousel-controls {
+  margin: 0 auto 10px;
+  width: 100%;
+  text-align: center;
+}
+.xrx_bootstrap .scale-slider .carousel-controls .carousel-indicators {
+  text-align: center;
+  display: inline;
+  position: static;
+  margin: 0 0 20px;
+  bottom: 20px;
+  width: 100%;
+}
+.xrx_bootstrap .scale-slider .carousel-controls .carousel-indicators li, .xrx_bootstrap .scale-slider .carousel-controls .carousel-indicators li.active {
+  margin: 0 10px;
+}
+.xrx_bootstrap .scale-slider .carousel-controls .carousel-control-scale {
+  margin: 0 10px;
+  display: none;
+  vertical-align: super;
+}
+.xrx_bootstrap .scale-slider .carousel-controls .carousel-control-scale .glyphicon:before {
+  content: " ";
+  display: block;
+  background: url("../images/icons/carousel-arrows-french.png") no-repeat;
+  width: 11px;
+  height: 15px;
+}
+.xrx_bootstrap .scale-slider .carousel-controls .carousel-control-scale .glyphicon-chevron-right:before {
+  background-position: -27px 0;
+}
+
+@media screen and (min-width: 768px) {
+  .xrx_bootstrap .scale-slider {
+    padding: 0;
+  }
+  .xrx_bootstrap .scale-slider .carousel-inner {
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks {
+    position: absolute;
+    top: 40px;
+    width: 100%;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks .text-block {
+    padding-left: 30px;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks .text-block .carousel-title {
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+    line-height: 36px;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks .text-block p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks .text-block .btn-primary {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (min-width: 970px) {
+  .xrx_bootstrap .scale-slider .carousel-inner {
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks .text-block {
+    padding-left: 60px;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks .text-block .carousel-title {
+    font-size: 35px;
+    line-height: normal;
+    margin-bottom: 10px;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks .text-block p {
+    font-size: 17px;
+    margin-bottom: 0px;
+  }
+  .xrx_bootstrap .scale-slider .overlay-blocks .text-block .btn-primary {
+    padding: 5px 16px;
+    margin-top: 20px;
+  }
+  .xrx_bootstrap .scale-slider .carousel-controls {
+    margin: 0 auto 10px;
+    width: 100%;
+    text-align: center;
+  }
+  .xrx_bootstrap .scale-slider .carousel-controls .carousel-indicators {
+    text-align: center;
+    display: inline;
+    position: static;
+    margin: 0 0 20px;
+    bottom: 20px;
+    width: 100%;
+  }
+  .xrx_bootstrap .scale-slider .carousel-controls .carousel-indicators li, .xrx_bootstrap .scale-slider .carousel-controls .carousel-indicators li.active {
+    margin: 0 5px;
+  }
+  .xrx_bootstrap .scale-slider .carousel-controls .carousel-control-scale {
+    display: inline-block;
+  }
+}
