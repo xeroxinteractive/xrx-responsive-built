@@ -1,0 +1,3105 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\000031}}
+.xrx_bootstrap.x_homepage {
+  padding-bottom: 20px;
+  background-image: none !important;
+  background-color: #fff !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\000038}}
+.xrx_bootstrap.x_homepage.gray-background {
+  background-color: #f9f9f9 !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000311}}
+.xrx_bootstrap.x_homepage .main.main-x {
+  padding-left: 0;
+  padding-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000314}}
+.xrx_bootstrap.x_homepage .main.main-x .gray-background {
+  background-color: #f9f9f9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000318}}
+.xrx_bootstrap.x_homepage .main.main-x .row div {
+  padding-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000322}}
+.xrx_bootstrap.x_homepage .main.main-x .row .sep-col {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000325}}
+.xrx_bootstrap.x_homepage .main.main-x .row .sep-col .sep {
+  border-bottom: 1px solid #d7d7d7;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000342}}
+  .xrx_bootstrap.x_homepage .content-area {
+    border: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000345}}
+  .xrx_bootstrap.x_homepage .main.main-x {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000350}}
+  .xrx_bootstrap.x_homepage .main.main-x .row .sep-col .sep {
+    padding-bottom: 30px;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000361}}
+  .xrx_bootstrap.x_homepage {
+    background-color: #fff;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000363}}
+  .xrx_bootstrap.x_homepage.gray-background {
+    background-color: #f9f9f9;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000366}}
+  .xrx_bootstrap.x_homepage .main-container.social-container {
+    padding: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000368}}
+  .xrx_bootstrap.x_homepage .main-container.social-container .main.main-x {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000373}}
+  .xrx_bootstrap.x_homepage .main-container.social-container .main.main-x .row div {
+    padding-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-homepage-main\.scss}line{font-family:\0000376}}
+  .xrx_bootstrap.x_homepage .main-container.social-container .main.main-x .row .sep-col {
+    display: none;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\000033}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature {
+  margin-top: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\000037}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature [class*="col-"] {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000311}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .media-text {
+  padding: 24px 15px 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000313}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .media-text h3 {
+  font-size: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000316}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .media-text p {
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000320}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  left: -1000%;
+  overflow: hidden;
+  max-width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000327}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container.video-ready {
+  left: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000330}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container:hover {
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000333}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container:before {
+  left: 50%;
+  top: 50%;
+  display: block;
+  content: '';
+  z-index: 2;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  opacity: 1;
+  background-image: url("../images/x-homepage/mobile/play-button-mobile.png");
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+  background-size: 60px 60px;
+  margin-left: -2em;
+  margin-top: -2.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000351}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container:before {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000355}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container:before:hover {
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000358}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container .playbtn {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000360}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container .playbtn {
+  left: 50%;
+  top: 50%;
+  display: block;
+  content: '';
+  z-index: 2;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  opacity: 1;
+  background-image: url("../images/x-homepage/desktop/play-button-desktop.png");
+  background-repeat: no-repeat;
+  width: 83px;
+  height: 83px;
+  background-size: 83px 83px;
+  margin-left: -2.5em;
+  margin-top: -2.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000379}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container iframe, .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container object, .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000386}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container #player {
+  left: -100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000388}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container #player {
+  display: block;
+  z-index: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000392}}
+.mobile .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container #player {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\0000397}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container img {
+  position: absolute;
+  z-index: 0;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003107}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container.play .playbtn {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003111}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container.play img {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003114}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container.play:before {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003117}}
+.xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container.play #player {
+  left: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003119}}
+.chrome .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container.play #player {
+  left: -1px;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003138}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature .media-text h3 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003142}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature .media-text p {
+    font-size: 18px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003147}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container:before {
+    background-image: url("../images/x-homepage/desktop/play-button-desktop.png");
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003165}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature {
+    margin-top: 0;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d7d7d7;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003170}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature [class*="col-"] {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003174}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature .media-text {
+    padding-left: 30px;
+    padding-top: 60px;
+    padding-right: 30px !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003175}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature .media-text h3 {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003180}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature .media-text p {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003190}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature .embed-container:before {
+    background-image: url("../images/x-homepage/desktop/play-button-desktop.png");
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-media-feature\.scss}line{font-family:\00003197}}
+  .xrx_bootstrap.x_homepage .main.main-x .media-feature .sep {
+    display: none;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-search-list\.scss}line{font-family:\000035}}
+  .search-list .media-body, .search-list .media-left, .search-list .media-right {
+    display: table-cell;
+    vertical-align: top;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\000031}}
+.selection, .all-blogs, .rd-selection {
+  position: absolute;
+  text-transform: uppercase;
+  font-size: 14px;
+  border: 1px solid #d7d7d7;
+  background-color: #fff;
+  width: 100%;
+  z-index: 9;
+  display: block;
+  background-image: url("../images/x-homepage/desktop/blog-dropdown-new.jpg");
+  background-repeat: no-repeat;
+  background-position: 100% 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000314}}
+.selection a, .all-blogs a, .rd-selection a {
+  color: #333;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  height: 28px;
+  line-height: 29px;
+  display: block;
+  text-indent: 14px;
+  width: 94%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000326}}
+.selection a:hover, .selection a:active, .selection a:focus, .all-blogs a:hover, .all-blogs a:active, .all-blogs a:focus, .rd-selection a:hover, .rd-selection a:active, .rd-selection a:focus {
+  text-decoration: none !important;
+  outline: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000330}}
+.selection a:hover, .all-blogs a:hover, .rd-selection a:hover {
+  color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000333}}
+.selection a.selected-clone, .all-blogs a.selected-clone, .rd-selection a.selected-clone {
+  display: block;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000336}}
+.selection a.selected-clone:hover, .all-blogs a.selected-clone:hover, .rd-selection a.selected-clone:hover {
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000339}}
+.selection a.selected-clone span, .all-blogs a.selected-clone span, .rd-selection a.selected-clone span {
+  width: 88%;
+  white-space: nowrap;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000346}}
+.ie8 .selection a.selected-clone span, .ie8 .all-blogs a.selected-clone span, .ie8 .rd-selection a.selected-clone span {
+  width: 86%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000352}}
+.selection a.selected-blog, .all-blogs a.selected-blog, .rd-selection a.selected-blog {
+  color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000355}}
+.selection ul, .all-blogs ul, .rd-selection ul {
+  display: none;
+  padding: 0 !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000358}}
+.selection ul li, .all-blogs ul li, .rd-selection ul li {
+  list-style: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000366}}
+.selection {
+  background-size: 31px 28px;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000372}}
+  .selection, .rd-selection {
+    width: 93%;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000378}}
+  .selection, .rd-selection {
+    background-color: #fff;
+    background-image: url("../images/x-homepage/desktop/blog-dropdown-new.jpg");
+    background-repeat: no-repeat;
+    border: 1px solid #d7d7d7;
+    max-width: 237px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000385}}
+  .selection a.selected-clone, .rd-selection a.selected-clone {
+    text-decoration: none !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000389}}
+  .selection a, .rd-selection a {
+    height: 28px;
+    line-height: 29px;
+    display: block;
+    text-indent: 17px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-selection\.scss}line{font-family:\0000397}}
+  .selection {
+    background-size: 31px 28px;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\000033}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub {
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\000035}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub a:hover {
+  color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\000038}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error {
+  background: #fff;
+  padding: 20px !important;
+  border: 1px solid #d7d7d7;
+  margin-bottom: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000313}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error .error-title {
+  font-weight: bold;
+  margin-top: -3px;
+  font-size: 15px;
+  margin-left: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000319}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error p {
+  font-size: 14px;
+  margin-left: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000324}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error .icon {
+  background-image: url("../images/x-homepage/mobile/error_icon_mobile.png");
+  background-size: 25px 25px;
+  width: 25px;
+  height: 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000329}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error .icon {
+  background-image: url("../images/x-homepage/desktop/feed-error.jpg");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000334}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header {
+  margin-bottom: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000336}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header [class*="col-"] {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000340}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-title {
+  color: #333;
+  font-size: 21px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000347}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons {
+  padding: 10px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000349}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul {
+  margin-bottom: 0;
+  padding: 10px 15px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000352}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li {
+  display: inline-block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000354}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a {
+  background-repeat: no-repeat;
+  width: 22px;
+  height: 22px;
+  text-indent: -9999px;
+  margin-right: 17px;
+  display: block;
+  background-size: 22px 22px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000362}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.facebook {
+  background-image: url("../images/x-homepage/mobile/social/facebook.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000364}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.facebook {
+  background-image: url("../images/x-homepage/mobile/social/ie8/facebook.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000368}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.twitter {
+  background-image: url("../images/x-homepage/mobile/social/twitter.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000370}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.twitter {
+  background-image: url("../images/x-homepage/mobile/social/ie8/twitter.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000374}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.youtube {
+  background-image: url("../images/x-homepage/mobile/social/youtube.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000376}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.youtube {
+  background-image: url("../images/x-homepage/mobile/social/ie8/youtube.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000380}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.linkedin {
+  background-image: url("../images/x-homepage/mobile/social/linkedin.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000382}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.linkedin {
+  background-image: url("../images/x-homepage/mobile/social/ie8/linkedin.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000386}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.gplus {
+  background-image: url("../images/x-homepage/mobile/social/gplus.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000388}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.gplus {
+  background-image: url("../images/x-homepage/mobile/social/ie8/gplus.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000392}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.blog {
+  background-image: url("../images/x-homepage/mobile/social/blog.png");
+  background-size: 56px 22px;
+  width: 56px;
+  margin-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\0000397}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.blog {
+  background-image: url("../images/x-homepage/mobile/social/ie8/blog.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003107}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container {
+  padding: 0 15px;
+  margin-bottom: 40px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003110}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side {
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003112}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .all-blogs {
+  display: none;
+  background-image: none;
+  background-color: transparent;
+  border: none;
+  text-transform: none;
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003119}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .all-blogs a {
+  text-indent: 0;
+  text-align: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003123}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .all-blogs a:hover {
+  color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003129}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed {
+  padding: 0;
+  margin-top: 60px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003135}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li {
+  list-style: none;
+  position: relative;
+  margin-bottom: 40px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003139}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li a:hover {
+  color: #2895d5;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003143}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image {
+  height: 130px;
+  overflow: hidden;
+  display: block;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003148}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image .date {
+  background: #333333;
+  width: 70px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  padding-top: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003157}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image .date .day {
+  display: block;
+  font-size: 17px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003161}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image .date .yam {
+  display: block;
+  margin-top: -2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003170}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-right {
+  margin-bottom: 16px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003172}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-right .title, .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-right .author {
+  overflow: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003175}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-right .title {
+  margin-top: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003179}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:last-child {
+  display: none;
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003191}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:first-child + li .feed-right {
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003197}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:first-child + li + li {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003201}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li a {
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003204}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-date {
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003207}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-p {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003211}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:last-child {
+  margin-bottom: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003218}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side {
+  margin-top: 40px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003221}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin, .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter {
+  display: none;
+  background: #fff;
+  padding: 40px 20px 20px 20px;
+  border: 1px solid #d7d7d7;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003227}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin:before, .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter:before {
+  content: " ";
+  display: block;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  top: -17px;
+  left: 20px;
+  background-size: 35px 35px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003238}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin {
+  padding-bottom: 5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003240}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin:before {
+  background-image: url("../images/x-homepage/mobile/feed-linkedin.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003242}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin:before {
+  background-image: url("../images/x-homepage/desktop/feed-linkedin.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003246}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin a.linkedin-text:hover, .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin a.linkedin-text:active {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003250}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-left {
+  overflow: hidden;
+  max-height: 150px;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003254}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-left img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003260}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .linkedin-text {
+  color: #333;
+  display: block;
+  border-bottom: 1px solid #d7d7d7;
+  margin-bottom: 15px;
+  padding-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003266}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .linkedin-text .row {
+  margin-bottom: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003269}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .linkedin-text .title {
+  margin-bottom: 15px;
+  line-height: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003273}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .linkedin-text .feed-p p {
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003277}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .linkedin-text:hover .title {
+  color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003282}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .li-info {
+  margin: 12px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003284}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .li-info span {
+  color: #d7d7d7;
+  padding: 0 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003288}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .li-info a {
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003290}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .li-info a:hover {
+  text-decoration: none;
+  color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003297}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter {
+  margin-bottom: 40px;
+  font-size: 14px;
+  padding-right: 20px;
+  padding-top: 35px;
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003303}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter p {
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003306}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter:before {
+  background-image: url("../images/x-homepage/mobile/feed-twitter.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003308}}
+.ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter:before {
+  background-image: url("../images/x-homepage/desktop/feed-twitter.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003313}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .account a {
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003315}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .account a:hover {
+  color: #2895d5;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003321}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .twitter-actions {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003324}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .twitter-actions a {
+  background-image: url("../images/x-homepage/twitter-actions.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  text-indent: -99999px;
+  margin-right: 40px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003331}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .twitter-actions a.retweet {
+  background-position: -81px 0;
+  width: 17px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003335}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .twitter-actions a.favorite {
+  margin-right: 0;
+  background-position: -32px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003342}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .tweet:first-child {
+  border-bottom: 1px solid #d7d7d7;
+  margin-bottom: 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003345}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .tweet:first-child .twitter-actions {
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003354}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .feed-right .title, .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .feed-right .author {
+  font-size: 15px;
+  font-weight: bold;
+  color: #333;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003360}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .feed-right .author {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003366}}
+.xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .feed-right p {
+  font-size: 13px;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003377}}
+  .xrx_bootstrap.x_homepage .main.main-x {
+    padding-left: 0;
+    padding-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003382}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error {
+    margin-bottom: 40px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003384}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error .error-title {
+    font-size: 18px;
+    margin-left: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003388}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error p {
+    font-size: 16px;
+    margin-left: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003392}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error .icon {
+    background-image: url("../images/x-homepage/mobile/error_icon_70x70.png");
+    background-size: 35px 35px;
+    width: 35px;
+    height: 35px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003397}}
+  .ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error .icon {
+    background-image: url("../images/x-homepage/desktop/feed-error.jpg");
+    width: 25px;
+    height: 25px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003406}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons {
+    padding-top: 2px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003409}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul {
+    text-align: right;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003411}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li {
+    display: inline-block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003413}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a {
+    text-align: left;
+    background-repeat: no-repeat;
+    width: 28px;
+    height: 28px;
+    background-size: 28px 28px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003419}}
+  .ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a {
+    width: 22px;
+    height: 22px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003423}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.blog {
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003426}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a.gplus {
+    margin-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003433}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-title {
+    font-size: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003439}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .all-blogs {
+    display: block;
+    width: auto;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003442}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .all-blogs a {
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003447}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-buttons .buttons-left {
+    padding-right: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003450}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-buttons .buttons-right {
+    padding-left: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003454}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed {
+    margin-top: 80px;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003458}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003461}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image {
+    height: 140px;
+    margin-bottom: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003464}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image .date {
+    padding-top: 5px;
+    width: 85px;
+    height: 55px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003468}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image .date .day {
+    font-size: 29px;
+    line-height: 29px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003472}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image .date .yam {
+    margin-top: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003476}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image img {
+    min-height: 140px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003480}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-date {
+    font-weight: bold;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003484}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-right {
+    margin-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003486}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-right .title {
+    margin-top: 2px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003490}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:first-child {
+    padding-right: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003493}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:nth-child(2) {
+    padding-left: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003497}}
+  .ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:first-child + li {
+    padding-left: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003501}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-p {
+    margin-top: 16px;
+    margin-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003509}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side {
+    margin-top: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003512}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-left {
+    margin-bottom: 0;
+    max-height: 170px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003515}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-left img {
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003519}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-right, .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-p {
+    padding-left: 15px;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003537}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .no-gutter.gutter-switch, .xrx_bootstrap.x_homepage .main.main-x .social-hub .row.gutter-switch {
+    margin-right: 0;
+    margin-left: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003541}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error {
+    padding: 0 !important;
+    background: transparent;
+    border: none;
+    margin-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003546}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error .error-title {
+    font-size: 16px;
+    margin-left: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003550}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error p {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003555}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .feed-error .icon {
+    background-image: url("../images/x-homepage/desktop/feed-error.jpg");
+    width: 25px;
+    height: 25px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003561}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header {
+    margin-bottom: 30px;
+    color: #fff;
+    border-bottom: 1px solid #d7d7d7;
+    padding: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003567}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header [class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003571}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-title {
+    padding: 10px 0px;
+    font-size: 24px;
+    font-weight: normal;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003576}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons {
+    padding: 10px 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003578}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul {
+    text-align: right;
+    padding: 0;
+    margin: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003583}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-header .social-icons ul li a {
+    line-height: 5px;
+    background-size: 21px 21px;
+    height: 21px;
+    width: 21px;
+    text-align: left;
+    margin-right: 17px;
+    /*&.facebook {
+    	background-image: url('../images/x-homepage/desktop/social/facebook.png');
+    	.ie8 & {
+    		background-image: url('../images/x-homepage/desktop/social/facebook.png');
+    	}
+    }
+    &.twitter {
+    	background-image: url('../images/x-homepage/desktop/social/twitter.png');
+    	.ie8 & {
+    		background-image: url('../images/x-homepage/desktop/social/twitter.png');
+    	}
+    }
+    &.youtube {
+    	background-image: url('../images/x-homepage/desktop/social/youtube.png');
+    	.ie8 & {
+    		background-image: url('../images/x-homepage/desktop/social/youtube.png');
+    	}
+    }
+    &.linkedin {
+    	background-image: url('../images/x-homepage/desktop/social/linkedin.png');
+    	.ie8 & {
+    		background-image: url('../images/x-homepage/desktop/social/linkedin.png');
+    	}
+    }
+    &.blog {
+    	display: none;
+    }
+    &.gplus{
+    	background-image: url('../images/x-homepage/desktop/social/gplus.png');
+    	margin-right: 28px;
+    	.ie8 & {
+    		background-image: url('../images/x-homepage/desktop/social/gplus.png');
+    	}
+    }*/
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003630}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container {
+    padding: 0;
+    margin-bottom: 40px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003633}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side {
+    padding-left: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003635}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .all-blogs {
+    font-size: 16px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003638}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-buttons {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003643}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-buttons .buttons-left {
+    padding-right: 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003646}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-buttons .buttons-right {
+    padding-left: 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003651}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed {
+    padding: 0 15px 0 0;
+    margin-top: 80px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003654}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li {
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003658}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:first-child {
+    padding-right: 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003661}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:nth-child(2) {
+    padding-left: 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003665}}
+  .ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:first-child + li {
+    padding-left: 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003669}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-info {
+    position: relative;
+    height: 86px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003673}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-info-inner {
+    position: absolute;
+    bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003677}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image {
+    height: 81px;
+    display: inline-block;
+    width: 92% !important;
+    overflow: hidden;
+    margin-bottom: 12px;
+    border: 1px solid #ebebeb;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003684}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-image img {
+    width: 100% !important;
+    min-height: 85px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003689}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .blog-date {
+    font-size: 12px;
+    font-weight: bold;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003693}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-left {
+    overflow: hidden;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003698}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-right .title {
+    margin-top: 2px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003702}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:last-child {
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003706}}
+  .ie8 .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li:first-child + li + li {
+    display: block !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003710}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .blog-side .blog-feed li .feed-p {
+    margin-top: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003717}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .feed-right .title, .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .feed-right .author {
+    font-size: 16px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003721}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side {
+    padding-right: 0px !important;
+    padding-left: 30px;
+    margin-top: 17px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003726}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin:before {
+    background-image: url("../images/x-homepage/desktop/feed-linkedin.png");
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003729}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-left {
+    overflow: hidden;
+    max-height: 75px;
+    position: relative;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003734}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-left img {
+    max-width: 100%;
+    height: auto;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003742}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-right {
+    padding-left: 15px;
+    height: 80px;
+    margin-bottom: 15px;
+    position: relative;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003747}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-right div {
+    position: absolute;
+    bottom: 0;
+    overflow: hidden;
+    width: 95%;
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003753}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-right div .title, .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-right div .author {
+    max-width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003756}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-right div .title {
+    margin-bottom: 0;
+    line-height: 21px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003763}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .linkedin .feed-p {
+    padding-left: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003768}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter {
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003771}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .tweet {
+    padding-bottom: 10px !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003773}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .tweet .twitter-actions {
+    margin-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003777}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter .tweet:first-child .twitter-actions {
+    margin-bottom: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-social-hub\.scss}line{font-family:\00003783}}
+  .xrx_bootstrap.x_homepage .main.main-x .social-hub .social-container .social-side .twitter:before {
+    background-image: url("../images/x-homepage/desktop/feed-twitter.png");
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\000032}}
+.xrx_bootstrap .article-cta {
+  font-size: 13px;
+  color: #333;
+  border: 1px solid #d7d7d7;
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\000039}}
+.xrx_bootstrap .article-cta:hover {
+  background-color: #e1e1e1;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000313}}
+.xrx_bootstrap .article-cta:focus, .xrx_bootstrap .article-cta:active, .xrx_bootstrap .article-cta:visited {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000316}}
+.xrx_bootstrap .article-cta.cta-blue {
+  background-color: #2895d5;
+  color: #fff;
+  border: 1px solid #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000320}}
+.xrx_bootstrap .article-cta.cta-blue:hover {
+  background-color: #737373;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000326}}
+.xrx_bootstrap .article-hero .col-xs-12 {
+  margin-bottom: -10%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000328}}
+.xrx_bootstrap .article-hero .col-xs-12 img {
+  width: 100%;
+  max-width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000333}}
+.xrx_bootstrap .article-hero .col-xs-12 .article-video-poster:before {
+  top: 45%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000342}}
+.xrx_bootstrap .main.main-x .article-title h1 {
+  font-size: 23px;
+  margin-top: 23px;
+  line-height: 25px;
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000350}}
+.xrx_bootstrap .main.main-x .article-content {
+  font-size: 14px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000352}}
+.xrx_bootstrap .main.main-x .article-content p {
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000356}}
+.xrx_bootstrap .main.main-x .article-content p.article-subtitle {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000360}}
+.xrx_bootstrap .main.main-x .article-content p.intro-text {
+  font-size: 17px;
+  line-height: 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000369}}
+.xrx_bootstrap .main.main-x .article-info {
+  margin-bottom: 24px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000371}}
+.xrx_bootstrap .main.main-x .article-info .col-underline {
+  border-bottom: 1px solid #d7d7d7;
+  padding: 20px 0;
+  font-size: 14px;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000382}}
+  .xrx_bootstrap .article-cta {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000386}}
+  .xrx_bootstrap .article-hero .col-xs-12 {
+    margin-bottom: 0;
+    max-height: 350px;
+    overflow: hidden;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000390}}
+  .xrx_bootstrap .article-hero .col-xs-12 .article-video-poster {
+    max-height: 350px;
+    overflow: hidden;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\0000399}}
+  .xrx_bootstrap .main.main-x .article-title h1 {
+    font-size: 32px;
+    margin-top: 30px;
+    line-height: 40px;
+    margin-bottom: 0;
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003108}}
+  .xrx_bootstrap .main.main-x .article-content {
+    font-size: 18px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003110}}
+  .xrx_bootstrap .main.main-x .article-content p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    line-height: 26px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003114}}
+  .xrx_bootstrap .main.main-x .article-content p.article-subtitle {
+    margin-bottom: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003117}}
+  .xrx_bootstrap .main.main-x .article-content p.intro-text {
+    font-size: 24px;
+    line-height: 34px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003124}}
+  .xrx_bootstrap .main.main-x .article-info {
+    border-bottom: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003126}}
+  .xrx_bootstrap .main.main-x .article-info .col-underline {
+    border-bottom: none;
+    font-size: 18px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003131}}
+  .xrx_bootstrap .main.main-x .contact-info {
+    font-size: 16px;
+    margin-top: -6px;
+    text-align: right;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003135}}
+  .xrx_bootstrap .main.main-x .contact-info span {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003138}}
+  .xrx_bootstrap .main.main-x .contact-info img {
+    width: 15px;
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 10px;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003153}}
+  .xrx_bootstrap .article-main-row {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003161}}
+  .xrx_bootstrap .article-main-row .main.main-x .article-title h1 {
+    font-size: 32px;
+    margin-top: 30px;
+    line-height: 40px;
+    margin-bottom: 0;
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003170}}
+  .xrx_bootstrap .article-main-row .main.main-x .article-info {
+    margin-bottom: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003172}}
+  .xrx_bootstrap .article-main-row .main.main-x .article-info .col-underline {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003176}}
+  .xrx_bootstrap .article-main-row .main.main-x .article-content {
+    font-size: 16px;
+    border-bottom: 1px solid #d7d7d7;
+    margin-bottom: 40px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003180}}
+  .xrx_bootstrap .article-main-row .main.main-x .article-content p {
+    font-size: 16px;
+    margin-bottom: 30px;
+    line-height: 26px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003184}}
+  .xrx_bootstrap .article-main-row .main.main-x .article-content p.article-subtitle {
+    margin-bottom: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003187}}
+  .xrx_bootstrap .article-main-row .main.main-x .article-content p:last-child {
+    margin-bottom: 25px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003190}}
+  .xrx_bootstrap .article-main-row .main.main-x .article-content p.intro-text {
+    font-size: 22px;
+    line-height: 32px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003196}}
+  .xrx_bootstrap .article-main-row .main.main-x .contact-info {
+    font-size: 18px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003198}}
+  .xrx_bootstrap .article-main-row .main.main-x .contact-info span {
+    font-size: 12px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003203}}
+  .xrx_bootstrap .article-main-row .article-right {
+    width: 183px;
+    min-width: 183px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003207}}
+  .xrx_bootstrap .article-main-row .article-right .vertical-align {
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003211}}
+  .xrx_bootstrap .article-main-row .article-left {
+    width: 105px;
+    min-width: 105px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003214}}
+  .xrx_bootstrap .article-main-row .article-left a {
+    color: #333;
+    display: block;
+    margin-top: 36px;
+    text-transform: uppercase;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003219}}
+  .xrx_bootstrap .article-main-row .article-left a span {
+    margin-right: 15px;
+    background-image: url("../images/article-page/desktop/Arrow_home.png");
+    width: 7px;
+    height: 12px;
+    text-indent: -9999px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003228}}
+  .xrx_bootstrap .article-main-row .article-left a:hover {
+    color: #2895d5;
+    text-decoration: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003231}}
+  .xrx_bootstrap .article-main-row .article-left a:hover span {
+    background-image: url("../images/article-page/desktop/Arrow_blue.png");
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003238}}
+  .xrx_bootstrap .equal-height.row.no-gutter {
+    display: table;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003241}}
+  .xrx_bootstrap .equal-height.row.no-gutter .equal-col {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003247}}
+  .xrx_bootstrap .vertical-center {
+    margin: 0 auto;
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003251}}
+  .xrx_bootstrap .vertical-center .sidebar-text h3 {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    line-height: 22px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003257}}
+  .xrx_bootstrap .vertical-center .sidebar-text p {
+    font-size: 11px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003260}}
+  .xrx_bootstrap .vertical-center .sidebar-text .btn-primary {
+    border-radius: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article\.scss}line{font-family:\00003265}}
+  .xrx_bootstrap .vertical-center img {
+    max-width: 100%;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\000031}}
+.article-share {
+  padding: 0;
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\000034}}
+.article-share .addthis_sharing_toolbox {
+  display: inline-block;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000311}}
+  .article-share {
+    text-align: right;
+    display: block;
+    margin-top: -1px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000315}}
+  .article-share .addthis_sharing_toolbox {
+    display: inline-block;
+    margin-left: 6px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000319}}
+  .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-animated.at4-show .at-share-btn, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie9.at4-show .at-share-btn, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie8.at4-show .at-share-btn {
+    margin-right: 12px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000324}}
+  .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-animated.at4-show .at-share-btn.at-svc-print, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie9.at4-show .at-share-btn.at-svc-print, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie8.at4-show .at-share-btn.at-svc-print {
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000327}}
+  .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-animated.at4-show .at-share-btn:last-child, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie9.at4-show .at-share-btn:last-child, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie8.at4-show .at-share-btn:last-child {
+    margin-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000330}}
+  .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-animated.at4-show .at-share-btn.last-child, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie9.at4-show .at-share-btn.last-child, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie8.at4-show .at-share-btn.last-child {
+    margin-right: 0;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000340}}
+  .article-share {
+    padding: 0;
+    margin-top: -1px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000343}}
+  .article-share .addthis_sharing_toolbox {
+    display: inline-block;
+    margin-left: 6px;
+    margin-top: -3px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000349}}
+  .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-animated.at4-show .at-share-btn, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie9.at4-show .at-share-btn, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie8.at4-show .at-share-btn {
+    margin-right: 12px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-social-addthis\.scss}line{font-family:\0000351}}
+  .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-animated.at4-show .at-share-btn.at-svc-print, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie9.at4-show .at-share-btn.at-svc-print, .article-share .addthis_sharing_toolbox .at-share-tbx-element.addthis_20x20_style.addthis-smartlayers.addthis-smartlayers-ie8.at4-show .at-share-btn.at-svc-print {
+    display: inline-block;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\000031}}
+.modal.fade {
+  z-index: 99999;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\000035}}
+.modal.fade .modal-dialog .modal-content {
+  -webkit-box-shadow: 0 0 0 transparent;
+  box-shadow: 0 0 0 transparent;
+  border-radius: 0px;
+  border: none;
+  background-color: #000;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000310}}
+.modal.fade .modal-dialog .modal-content .modal-body {
+  padding: 0;
+  text-align: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000313}}
+.modal.fade .modal-dialog .modal-content .modal-body button {
+  background-color: transparent;
+  background-image: url("../images/article-page/close.png");
+  border: none;
+  width: 14px;
+  height: 14px;
+  margin-right: 10px;
+  margin-top: 10px;
+  text-align: right;
+  padding-left: 0;
+  padding-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000324}}
+.modal.fade .modal-dialog .modal-content .modal-body button:hover, .modal.fade .modal-dialog .modal-content .modal-body button:active, .modal.fade .modal-dialog .modal-content .modal-body button:focus {
+  outline: 0 !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000334}}
+.modal.fade .modal-dialog .modal-content .modal-body .video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 10px;
+  height: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000339}}
+.modal.fade .modal-dialog .modal-content .modal-body .video-container iframe {
+  border: none;
+  margin-bottom: -5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000355}}
+.article-video-poster:hover, .article-video-poster:active, .article-video-poster:focus {
+  outline: 0 !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000364}}
+.article-video-poster:before {
+  left: 50%;
+  top: 50%;
+  display: block;
+  content: '';
+  z-index: 2;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  opacity: 1;
+  background-image: url("../images/x-homepage/mobile/play-button-mobile.png");
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+  background-size: 60px 60px;
+  margin-left: -2em;
+  margin-top: -2.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000382}}
+.ie8 .article-video-poster:before {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000386}}
+.article-video-poster .playbtn {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\0000388}}
+.ie8 .article-video-poster .playbtn {
+  left: 50%;
+  top: 50%;
+  display: block;
+  content: '';
+  z-index: 2;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  opacity: 1;
+  background-image: url("../images/x-homepage/desktop/play-button-desktop.png");
+  background-repeat: no-repeat;
+  width: 83px;
+  height: 83px;
+  background-size: 83px 83px;
+  margin-left: -2.5em;
+  margin-top: -2.5em;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\00003125}}
+  .article-video-poster:before {
+    background-size: 83px 83px;
+    width: 83px;
+    height: 83px;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-video\.scss}line{font-family:\00003135}}
+  .modal.fade .modal-dialog {
+    width: 940px;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\000032}}
+.photo-modal-thumb {
+  outline: 0;
+  display: block;
+  border: 1px solid #ebebeb;
+  position: relative;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\000038}}
+.photo-modal-thumb:focus, .photo-modal-thumb:active, .photo-modal-thumbhover {
+  outline: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000311}}
+.photo-modal-thumb img {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000314}}
+.photo-modal-thumb .photo-modal-plus {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-image: url("../images/article-page/photo-modal-open.jpg");
+  width: 29px;
+  height: 29px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000325}}
+.photoModal.modal.fade .modal-dialog {
+  width: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000329}}
+.photoModal.modal.fade .modal-dialog .modal-content .modal-body button {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000336}}
+.photoModal.modal.fade img {
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000341}}
+  .photo-modal-thumb {
+    margin-bottom: 40px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000345}}
+  .photoModal.modal.fade .modal-dialog {
+    width: auto;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000353}}
+  .photo-modal-thumb {
+    margin-bottom: 30px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-article-photo-modal\.scss}line{font-family:\0000357}}
+  .photoModal.modal.fade .modal-dialog {
+    width: auto;
+    max-width: 940px;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\000031}}
+.full-width-devices {
+  padding-left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  padding-right: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\000038}}
+.responsive-image {
+  visibility: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000315}}
+.promos .equal-col {
+  margin-bottom: 5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000319}}
+.promos .photo-promo img {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000323}}
+.promos .blue-promo {
+  background-color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000326}}
+.promos .turquoise-promo {
+  background-color: #34bcba;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000329}}
+.promos .violet-promo {
+  background-color: #9B2583;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000332}}
+.promos .lavender-promo {
+  background-color: #7053AA;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000335}}
+.promos .promo-text {
+  color: #fff;
+  padding: 10px 16px 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000339}}
+.article-promos .promos .promo-text {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000342}}
+.promos .promo-text h4 {
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 42px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000347}}
+.promos .promo-text .article-cta {
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 5px 10px;
+  font-size: 14px;
+  display: inline-block;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000355}}
+.promos .promo-text .article-cta:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000358}}
+.ie8 .promos .promo-text .article-cta:hover {
+  background-image: url("../images/x-homepage/active-container/ie8-hover.png");
+  background-color: transparent;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000364}}
+.promos .article-tile {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000366}}
+.promos .article-tile:active {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000368}}
+.promos .article-tile:active .article-cta {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000371}}
+.ie8 .promos .article-tile:active .article-cta {
+  background-image: url("../images/x-homepage/active-container/ie8-hover.png");
+  background-color: transparent;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000378}}
+.promos a.article-tile:hover {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000380}}
+.promos a.article-tile:hover .article-cta {
+  background-color: rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000383}}
+.ie8 .promos a.article-tile:hover .article-cta {
+  background-image: url("../images/x-homepage/active-container/ie8-hover.png");
+  background-color: transparent;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000390}}
+.homepage-promos {
+  margin-bottom: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000392}}
+.homepage-promos .promos {
+  margin-left: 0;
+  margin-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000395}}
+.homepage-promos .promos .equal-col {
+  padding: 0;
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\0000399}}
+.homepage-promos .promos .equal-col .promo-text h4 {
+  padding-bottom: 20px;
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003105}}
+.homepage-promos .promos .photo-promo {
+  background-color: transparent !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003107}}
+.homepage-promos .promos .photo-promo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003112}}
+.homepage-promos .promos .photo-promo .promo-text {
+  position: absolute;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  min-height: 145px;
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003118}}
+.ie8 .homepage-promos .promos .photo-promo .promo-text {
+  background-image: url("../images/article-page/ie8-promo-bg.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003130}}
+.homepage-promos .hero-promo .promo-text h1 {
+  font-size: 20px;
+  line-height: 22px;
+  margin: 15px 0 15px;
+  padding-bottom: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003136}}
+.homepage-promos .hero-promo .promo-text img {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003138}}
+.homepage-promos .hero-promo .promo-text img.img-visible {
+  display: block;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003147}}
+  .promos .equal-col {
+    margin-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003149}}
+  .promos .equal-col .promo-text {
+    padding: 28px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003151}}
+  .promos .equal-col .promo-text h4 {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003156}}
+  .promos .equal-col .promo-text .article-cta {
+    font-size: 11.5px;
+    position: absolute;
+    bottom: 28px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003162}}
+  .promos .equal-col .photo-promo {
+    background-color: transparent !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003164}}
+  .promos .equal-col .photo-promo img {
+    display: block;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003168}}
+  .promos .equal-col .photo-promo .promo-text {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 140px;
+    color: #fff;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003177}}
+  .ie8 .promos .equal-col .photo-promo .promo-text {
+    background-image: url("../images/article-page/ie8-promo-bg.png");
+    min-height: 90px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003184}}
+  .promos.article-promos {
+    display: table;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003187}}
+  .promos.article-promos [class*="col-"] {
+    float: none !important;
+    display: table-cell;
+    vertical-align: top;
+    position: relative;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003192}}
+  .ie8 .promos.article-promos [class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003205}}
+  .promos.article-promos [class*="col-"] .promo-text {
+    padding: 22px;
+    min-height: 115px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003208}}
+  .promos.article-promos [class*="col-"] .promo-text h4 {
+    padding-bottom: 0;
+    margin-bottom: 35px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003212}}
+  .promos.article-promos [class*="col-"] .promo-text a {
+    bottom: 22px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003220}}
+  .homepage-promos {
+    margin-bottom: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003222}}
+  .homepage-promos .promos {
+    /*.col-sm-6 {
+    		float: none !important;
+    		display: table-cell;
+    		vertical-align: top;
+    		position: relative;
+    		.ie8 & {
+    			padding-left: 0;
+    			padding-right: 0;
+    		}
+    	}
+    	*/
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003225}}
+  .homepage-promos .promos .equal-col .promo-text h4 {
+    font-size: 26px;
+    line-height: 30px;
+    margin-bottom: 40px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003230}}
+  .homepage-promos .promos .equal-col .promo-text .article-cta {
+    font-size: 18px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003235}}
+  .homepage-promos .promos .col-sm-6 {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003257}}
+  .homepage-promos .hero-promo .promo-text h1 {
+    font-size: 40px;
+    margin: 0 0 40px;
+    padding-bottom: 40px;
+    line-height: 46px;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003273}}
+  .promos {
+    margin-left: 0;
+    margin-right: 0;
+    display: table;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003278}}
+  .ie8 .promos {
+    display: block !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003280}}
+  .ie8 .promos.promo-3-col {
+    margin-left: 0;
+    margin-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003283}}
+  .ie8 .promos.promo-3-col .equal-col {
+    width: 320px !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003285}}
+  .ie8 .promos.promo-3-col .equal-col.last-child {
+    width: 313px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003291}}
+  .promos [class*="col-"] {
+    float: none !important;
+    display: table-cell;
+    vertical-align: top;
+    position: relative;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003296}}
+  .ie8 .promos [class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003302}}
+  .promos .equal-col .photo-promo, .promos .equal-col .text-promo {
+    min-height: 250px;
+    height: 250px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003307}}
+  .promos .equal-col .photo-promo img {
+    height: 250px;
+    min-height: 250px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003312}}
+  .promos .equal-col .photo-promo .promo-text h4 {
+    padding-bottom: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003315}}
+  .promos .equal-col .photo-promo .promo-text .article-cta {
+    position: absolute;
+    bottom: 28px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003322}}
+  .promos .equal-col .promo-text {
+    color: #fff;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003324}}
+  .promos .equal-col .promo-text h4 {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003329}}
+  .promos .equal-col .promo-text .article-cta {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003334}}
+  .homepage-promos .promos .equal-col .promo-text {
+    color: #fff;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003336}}
+  .homepage-promos .promos .equal-col .promo-text h4 {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003341}}
+  .homepage-promos .promos .equal-col .promo-text .article-cta {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003349}}
+  .promos.article-promos .equal-col .text-promo .promo-text {
+    padding: 28px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003353}}
+  .promos.article-promos .equal-col .promo-text {
+    padding: 28px;
+    min-height: 140px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003356}}
+  .promos.article-promos .equal-col .promo-text a {
+    bottom: 28px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003363}}
+  .hero-promo .equal-col {
+    padding: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003365}}
+  .hero-promo .equal-col .photo-promo, .hero-promo .equal-col .text-promo {
+    min-height: 380px;
+    height: 380px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003368}}
+  .hero-promo .equal-col .photo-promo img, .hero-promo .equal-col .text-promo img {
+    min-height: 380px;
+    height: 380px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos\.scss}line{font-family:\00003375}}
+  .hero-promo .equal-col .promo-text h1 {
+    font-size: 32px;
+    margin: 0 0 30px;
+    padding-bottom: 30px;
+    line-height: 38px;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\000032}}
+.quote-tweet {
+  margin-bottom: 30px;
+  border-left: 3px solid #2895d5;
+  margin-left: 40px;
+  padding-left: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\000038}}
+.quote-tweet p {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000312}}
+.quote-tweet a {
+  display: block;
+  font-size: 11px;
+  color: #aaaaaa;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000317}}
+.quote-tweet a:before {
+  content: '';
+  display: inline-block;
+  background-image: url("../images/article-page/mobile/quote-tweet.png");
+  width: 17px;
+  background-size: 17px 14px;
+  height: 14px;
+  vertical-align: top;
+  margin-right: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000326}}
+.ie8 .quote-tweet a:before {
+  background-image: url("../images/article-page/desktop/quote-tweet.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000331}}
+.quote-tweet a:hover {
+  color: #2895d5;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000334}}
+.quote-tweet a:hover:before {
+  background-image: url("../images/article-page/mobile/quote-tweet-hover.png");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000336}}
+.ie8 .quote-tweet a:hover:before {
+  background-image: url("../images/article-page/desktop/quote-tweet-hover.png");
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000347}}
+  .quote-tweet {
+    margin-bottom: 30px;
+    border-left: 3px solid #2895d5;
+    margin-left: 40px;
+    max-width: 70%;
+    padding-left: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000354}}
+  .quote-tweet p {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000358}}
+  .quote-tweet a {
+    display: block;
+    font-size: 12px;
+    color: #aaaaaa;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000359}}
+  .quote-tweet a:before {
+    content: '';
+    display: inline-block;
+    background-image: url("../images/article-page/desktop/quote-tweet.png");
+    width: 17px;
+    height: 14px;
+    vertical-align: top;
+    margin-right: 10px;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-quote-tweet\.scss}line{font-family:\0000379}}
+  .quote-tweet p {
+    font-size: 20px;
+  }
+}
+/*
+ * CSS Styles that are needed by jScrollPane for it to operate correctly.
+ *
+ * Include this stylesheet in your site or copy and paste the styles below into your stylesheet - jScrollPane
+ * may not operate correctly without them.
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\000038}}
+.jspContainer {
+  overflow: hidden;
+  width: 100% !important;
+  position: relative;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000314}}
+.jspScrollable, .jspPane {
+  width: 100% !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000317}}
+.jspPane {
+  position: absolute;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000322}}
+.jspVerticalBar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 6px;
+  height: 100%;
+  background: rgba(225, 225, 225, 0.3);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000332}}
+.jspHorizontalBar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 16px;
+  background: rgba(225, 225, 225, 0.3);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000342}}
+.jspCap {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000347}}
+.jspHorizontalBar .jspCap {
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000352}}
+.jspTrack {
+  background: rgba(225, 225, 225, 0.3);
+  position: relative;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000358}}
+.jspDrag {
+  background: #fff;
+  position: relative;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000365}}
+.rd-open .jspDrag {
+  background: #959595;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000370}}
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag {
+  float: left;
+  height: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000377}}
+.jspArrow {
+  background: #50506d;
+  text-indent: -20000px;
+  display: block;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000387}}
+.jspArrow.jspDisabled {
+  cursor: default;
+  background: #80808d;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000393}}
+.jspVerticalBar .jspArrow {
+  height: 16px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\0000398}}
+.jspHorizontalBar .jspArrow {
+  width: 16px;
+  float: left;
+  height: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\00003105}}
+.jspVerticalBar .jspArrow:focus {
+  outline: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\00003110}}
+.jspCorner {
+  background: #eeeef4;
+  float: left;
+  height: 100%;
+}
+
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-jscrollpane\.scss}line{font-family:\00003118}}
+* html .jspCorner {
+  margin: 0 -3px 0 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\000031}}
+.elicit-results, .close-elicit, .all-results, .elicit-results h4 {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\000036}}
+.homepage-promos .promos .equal-col.resource-desk .promo-text {
+  height: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\000038}}
+.homepage-promos .promos .equal-col.resource-desk .promo-text h4 {
+  padding-bottom: 0;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000312}}
+.homepage-promos .promos .equal-col.resource-desk .promo-text p {
+  margin-bottom: 20px;
+  font-size: 14px;
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000320}}
+.resource-desk .rd-selection {
+  background-image: url("../images/x-homepage/desktop/blog-dropdown-new.jpg");
+  background-size: 31px 28px;
+  background-color: #48a5db;
+  width: 92%;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000328}}
+.resource-desk .rd-selection a {
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000330}}
+.resource-desk .rd-selection a:hover {
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000333}}
+.resource-desk .rd-selection a.rd-selected-clone {
+  max-width: 100%;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000336}}
+.resource-desk .rd-selection a.rd-selected-clone span {
+  max-width: 88%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000343}}
+.ie8 .resource-desk .rd-selection a.rd-selected-clone span {
+  width: 88%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000351}}
+.resource-desk .rd-selection ul {
+  background-color: #48a5db;
+  height: 175px;
+  width: 100%;
+  max-width: 672px;
+  overflow: auto;
+  border-top: 1px solid #fff;
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000359}}
+.resource-desk .rd-selection ul.loading {
+  display: block;
+  position: absolute;
+  left: -2000%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000364}}
+.resource-desk .rd-selection ul li {
+  background-color: #48a5db;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000367}}
+.resource-desk .rd-selection ul li a {
+  line-height: inherit;
+  height: auto;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: initial;
+  margin-left: 17px;
+  text-indent: 0;
+  padding: 5px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000377}}
+.resource-desk .rd-selection ul li:hover {
+  background-color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000380}}
+.resource-desk .rd-selection ul li.rd-selected {
+  background-color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000386}}
+.resource-desk button {
+  margin-left: 0;
+  margin-top: 20px;
+  padding: 5px 10px 6px;
+  display: block;
+  border: none;
+  -webkit-appearance: none;
+  border-radius: 0;
+  background: #fff;
+  color: #2895d5;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\0000398}}
+.resource-desk button:focus, .resource-desk button:active, .resource-desk button:hover {
+  outline: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003101}}
+.android .resource-desk button {
+  padding-bottom: 5px;
+  line-height: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003111}}
+.rd-open.new-promos .promos .resource-desk {
+  background-color: #f9f9f9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003114}}
+.rd-open.new-promos .promos .resource-desk .close-elicit {
+  background-image: url("../images/x-homepage/active-container/resource-desk/close-button.png");
+  display: block;
+  position: absolute;
+  right: 15px;
+  top: 28px;
+  width: 14px;
+  height: 14px;
+  text-indent: -9999px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003124}}
+.rd-open.new-promos .promos .resource-desk .promo-text {
+  color: #333 !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003126}}
+.rd-open.new-promos .promos .resource-desk .promo-text button {
+  background-color: #2895d5;
+  color: #fff;
+  outline: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003131}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection {
+  background-image: url("../images/x-homepage/desktop/blog-dropdown-new.jpg");
+  background-size: 31px 28px;
+  background-color: #e1e1e1;
+  width: 92%;
+  border-color: #959595;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003138}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection a {
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003140}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection a:hover {
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003143}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection a.rd-selected-clone {
+  max-width: 100%;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003147}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection a.rd-selected-clone span {
+  max-width: 88%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003159}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection ul {
+  background-color: #fff;
+  margin-bottom: 0;
+  border-top: 1px solid #959595;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003164}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection ul li {
+  background-color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003166}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection ul li:hover {
+  background-color: #e1e1e1;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003169}}
+.rd-open.new-promos .promos .resource-desk .promo-text .rd-selection ul li.rd-selected {
+  background-color: #e1e1e1;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003178}}
+.rd-open.new-promos .elicit-results {
+  	/*-webkit-transition: all 0.5s ease-in-out;
+      -moz-transition: all 0.5s ease-in-out;
+      -ms-transition: all 0.5s ease-in-out;
+      -o-transition: all 0.5s ease-in-out;
+      transition: all 0.5s ease-in-out;*/
+  background-color: #f9f9f9;
+  padding: 0 15px 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003188}}
+.rd-open.new-promos .elicit-results.elicit-error .all-results {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003192}}
+.rd-open.new-promos .elicit-results.elicit-error ul li {
+  font-size: 14px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003194}}
+.rd-open.new-promos .elicit-results.elicit-error ul li a {
+  font-size: 14px;
+  color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003201}}
+.rd-open.new-promos .elicit-results .all-results {
+  display: inline-block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003204}}
+.rd-open.new-promos .elicit-results h4 {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003212}}
+.rd-open.new-promos .elicit-results ul li .media-middle {
+  margin-right: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003214}}
+.rd-open.new-promos .elicit-results ul li .media-middle img {
+  width: 90px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003219}}
+.rd-open.new-promos .elicit-results ul li a {
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003221}}
+.rd-open.new-promos .elicit-results ul li a:hover {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003223}}
+.rd-open.new-promos .elicit-results ul li a:hover p.media-heading {
+  color: #2895d5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003228}}
+.rd-open.new-promos .elicit-results ul li a p {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003231}}
+.rd-open.new-promos .elicit-results ul li a p.media-heading {
+  font-weight: bold;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003235}}
+.rd-open.new-promos .elicit-results ul li a .media-body {
+  display: block;
+  vertical-align: top;
+  padding-left: 5px;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003249}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text {
+    height: auto;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003252}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text .rd-selection {
+    width: 50%;
+    position: relative;
+    max-width: 421px;
+    display: inline-block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003257}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text .rd-selection ul {
+    max-width: 420px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003261}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text p {
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003264}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text h4 {
+    display: inline-block;
+    padding-bottom: 0;
+    vertical-align: top;
+    margin-bottom: 0;
+    margin-right: 36px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003271}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text button {
+    margin-left: 30px;
+    position: relative;
+    margin-top: 0;
+    padding: 5px 10px 6px;
+    bottom: 0px;
+    vertical-align: top;
+    display: inline-block;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003285}}
+  .rd-open.new-promos .promos .resource-desk .close-elicit {
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003290}}
+  .rd-open.new-promos .elicit-results {
+    position: relative;
+    padding: 28px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003293}}
+  .rd-open.new-promos .elicit-results .close-elicit {
+    background-image: url("../images/x-homepage/active-container/resource-desk/close-button.png");
+    display: block;
+    position: absolute;
+    right: 15px;
+    top: 28px;
+    width: 14px;
+    height: 14px;
+    text-indent: -9999px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003303}}
+  .rd-open.new-promos .elicit-results ul {
+    margin: 20px 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003307}}
+  .rd-open.new-promos .elicit-results ul li a {
+    color: #333;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003309}}
+  .rd-open.new-promos .elicit-results ul li a p.media-heading {
+    font-weight: bold;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003312}}
+  .rd-open.new-promos .elicit-results ul li a p {
+    display: block;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003323}}
+  .homepage-promos.full-width-devices {
+    overflow: visible;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003326}}
+  .homepage-promos .promos .equal-col.resource-desk {
+    height: auto;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003328}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text {
+    height: auto;
+    padding-bottom: 28px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003331}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text h4 {
+    padding-bottom: 0;
+    margin-bottom: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003335}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text p {
+    margin-bottom: 20px;
+    font-size: 14px;
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003340}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text .rd-selection {
+    width: 100%;
+    max-width: 237px;
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003346}}
+  .ie8 .homepage-promos .promos .equal-col.resource-desk .promo-text .rd-selection {
+    width: 237px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003349}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text .rd-selection a {
+    max-width: 212px;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003352}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text .rd-selection a.rd-selected-clone {
+    max-width: 100%;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003357}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text .rd-selection ul {
+    max-width: 235px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003361}}
+  .homepage-promos .promos .equal-col.resource-desk .promo-text button {
+    position: absolute;
+    bottom: 28px;
+    margin-top: 28px;
+    margin-left: 0;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003373}}
+  .rd-open.new-promos .promos .resource-desk .close-elicit {
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003379}}
+  .rd-open.new-promos .elicit-results .close-elicit {
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003382}}
+  .rd-open.new-promos .elicit-results h4 {
+    font-size: 13px;
+    display: block;
+    text-transform: uppercase;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003389}}
+  .rd-open.new-promos .elicit-results ul li a {
+    color: #333;
+    font-size: 13px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003392}}
+  .rd-open.new-promos .elicit-results ul li a .media-middle {
+    margin-right: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003394}}
+  .rd-open.new-promos .elicit-results ul li a .media-middle img {
+    width: 70px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003398}}
+  .rd-open.new-promos .elicit-results ul li a .media-body {
+    font-size: 13px;
+    vertical-align: top;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-resource-desk\.scss}line{font-family:\00003403}}
+  .rd-open.new-promos .elicit-results ul li a .media-body p {
+    margin-bottom: 0;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\000035}}
+.homepage-promos.new-promos img {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\000038}}
+.homepage-promos.new-promos .promo-text {
+  padding: 25px 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000310}}
+.homepage-promos.new-promos .promo-text h1, .homepage-promos.new-promos .promo-text h4 {
+  margin-bottom: 10px;
+  padding-bottom: 0;
+  font-size: 19px;
+  line-height: 22px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000316}}
+.homepage-promos.new-promos .promo-text p {
+  font-size: 13px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000319}}
+.homepage-promos.new-promos .promo-text .article-cta {
+  font-size: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000325}}
+.homepage-promos.new-promos .promos a {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000328}}
+.homepage-promos.new-promos .promos .article-cta {
+  text-transform: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000331}}
+.homepage-promos.new-promos .promos.hero-promo {
+  border-bottom: 2px solid #f9f9f9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000334}}
+.homepage-promos.new-promos .promos.hero-promo.turquoise-promo .col-md-4 {
+  background-color: #34bcba;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000339}}
+.homepage-promos.new-promos .promos.hero-promo a:hover {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000344}}
+.homepage-promos.new-promos .promos.hero-promo .promo-text {
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000349}}
+.homepage-promos.new-promos .promos.hero-promo .promo-text .article-cta {
+  font-size: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000356}}
+.homepage-promos.new-promos .promos .promo-row-inner.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000359}}
+.homepage-promos.new-promos .promos .promo-row-inner.row [class*="col-"] {
+  padding-left: 0;
+  padding-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000362}}
+.homepage-promos.new-promos .promos .promo-row-inner.row [class*="col-"] img {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000365}}
+.homepage-promos.new-promos .promos .promo-row-inner.row [class*="col-"] .article-cta {
+  font-size: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000371}}
+.homepage-promos.new-promos .promos .resource-desk .rd-selection {
+  background-image: url("../images/x-homepage/active-container/rd-dropdown-blue.png");
+  background-position: 100% 0;
+  border-color: #7dbfe5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000375}}
+.homepage-promos.new-promos .promos .resource-desk .rd-selection ul {
+  border-color: #7dbfe5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000379}}
+.homepage-promos.new-promos .promos .resource-desk .close-elicit {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\0000383}}
+.homepage-promos.new-promos .promos .resource-desk .promo-text h4 {
+  padding-bottom: 0;
+  margin-bottom: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003100}}
+.homepage-promos.new-promos.rd-open .rd-selection {
+  border-color: #555555;
+}
+
+@media screen and (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003112}}
+  .homepage-promos.new-promos .promos .promo-text h1 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003116}}
+  .homepage-promos.new-promos .promos .promo-text h4 {
+    margin-bottom: 10px;
+    padding-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003120}}
+  .homepage-promos.new-promos .promos .promo-text p {
+    font-size: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003124}}
+  .homepage-promos.new-promos .promos.hero-promo {
+    border-bottom: 2px solid #f9f9f9;
+    display: table;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003128}}
+  .homepage-promos.new-promos .promos.hero-promo:before, .homepage-promos.new-promos .promos.hero-promo:after {
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003131}}
+  .homepage-promos.new-promos .promos.hero-promo [class*="col-"] {
+    float: none !important;
+    display: table-cell;
+    vertical-align: top;
+    position: relative;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003137}}
+  .homepage-promos.new-promos .promos.hero-promo .promo-text {
+    position: absolute;
+    padding-bottom: 0;
+    bottom: auto;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003141}}
+  .homepage-promos.new-promos .promos.hero-promo .promo-text .article-cta {
+    position: relative;
+    bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003148}}
+  .homepage-promos.new-promos .promos .promo-row-inner {
+    display: table;
+    width: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003151}}
+  .homepage-promos.new-promos .promos .promo-row-inner:before, .homepage-promos.new-promos .promos .promo-row-inner:after {
+    display: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003154}}
+  .homepage-promos.new-promos .promos .promo-row-inner [class*="col-"] {
+    float: none !important;
+    display: table-cell;
+    vertical-align: top;
+    position: relative;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003160}}
+  .homepage-promos.new-promos .promos .promo-row-inner .promo-text {
+    padding-top: 20px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 0;
+    bottom: 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003167}}
+  .homepage-promos.new-promos .promos .promo-row-inner .promo-text .article-cta {
+    position: initial;
+    bottom: auto;
+    margin-top: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003175}}
+  .homepage-promos.new-promos .promos .resource-desk h4 {
+    font-size: 28px;
+  }
+}
+@media screen and (min-width: 970px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003184}}
+  .homepage-promos.new-promos {
+    margin-bottom: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003186}}
+  .homepage-promos.new-promos .promos {
+    display: block !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003189}}
+  .ie8 .homepage-promos.new-promos .promos .promo-text {
+    min-height: 150px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003194}}
+  .homepage-promos.new-promos .promos .promo-text h1 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003198}}
+  .homepage-promos.new-promos .promos .promo-text p {
+    font-size: 15px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003201}}
+  .homepage-promos.new-promos .promos .promo-text h4 {
+    font-size: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003205}}
+  .homepage-promos.new-promos .promos .small-promo-a {
+    border-right: 2px solid #f9f9f9;
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003208}}
+  .homepage-promos.new-promos .promos .small-promo-a [class*="col-"] {
+    float: left !important;
+    display: block;
+    height: 185px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003213}}
+  .homepage-promos.new-promos .promos .small-promo-a .promo-row-inner {
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003215}}
+  .homepage-promos.new-promos .promos .small-promo-a .promo-row-inner [class*="col-"] {
+    float: left !important;
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003219}}
+  .homepage-promos.new-promos .promos .small-promo-a .promo-row-inner .promo-text {
+    position: initial;
+    bottom: 0;
+    min-height: 185px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003223}}
+  .homepage-promos.new-promos .promos .small-promo-a .promo-row-inner .promo-text .article-cta {
+    position: absolute;
+    bottom: 24px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003227}}
+  .homepage-promos.new-promos .promos .small-promo-a .promo-row-inner .promo-text h4 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003232}}
+  .homepage-promos.new-promos .promos .small-promo-a .promo-row-inner img {
+    min-height: 185px;
+    height: 185px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003239}}
+  .homepage-promos.new-promos .promos .resource-desk .text-promo {
+    min-height: 185px;
+    height: 185px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003242}}
+  .homepage-promos.new-promos .promos .resource-desk .text-promo .promo-text {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003245}}
+  .homepage-promos.new-promos .promos .resource-desk .text-promo .promo-text p {
+    margin-bottom: 48px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003248}}
+  .homepage-promos.new-promos .promos .resource-desk .text-promo .promo-text h4 {
+    font-size: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003251}}
+  .homepage-promos.new-promos .promos .resource-desk .text-promo .promo-text .rd-selection {
+    /*position: absolute;
+    bottom: 28px;
+    &.list-open {
+    	position: relative;
+    }*/
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003263}}
+  .homepage-promos.new-promos .promos.hero-promo {
+    /*display: block;
+    [class*="col-"] {
+    float: left !important;
+    display: block;
+    }*/
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003265}}
+  .ie8 .homepage-promos.new-promos .promos.hero-promo .promo-text {
+    min-height: 200px;
+    position: relative;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/abloom\/Documents\/xrx-responsive\/trunk\/src\/scss\/xrx-scss\/x-homepage-components\/xrx-promos-b\.scss}line{font-family:\00003280}}
+  .homepage-promos.new-promos.rd-open .promos .resource-desk .close-elicit {
+    display: block;
+  }
+}
