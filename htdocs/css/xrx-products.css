@@ -1,0 +1,1598 @@
+/**
+Define fonts to use in web site the main font is Roboto
+**/
+@font-face {
+  font-family: 'RobotoThin';
+  src: url("../font-test/specimen_files/Roboto-Thin-webfont.eot");
+  src: url("../font-test/specimen_files/Roboto-Thin-webfont.svg");
+  src: url("../font-test/specimen_files/Roboto-Thin-webfont.ttf");
+  src: url("../font-test/specimen_files/Roboto-Thin-webfont.woff");
+}
+@font-face {
+  font-family: 'RobotoRegular';
+  src: url("../font-test/specimen_files/Roboto-Regular-webfont.eot");
+  src: url("../font-test/specimen_files/Roboto-Regular-webfont.svg");
+  src: url("../font-test/specimen_files/Roboto-Regular-webfont.ttf");
+  src: url("../font-test/specimen_files/Roboto-Regular-webfont.woff");
+}
+@font-face {
+  font-family: 'RobotoCondensedRegular';
+  src: url("../font-test/specimen_files/RobotoCondensed-Regular.ttf");
+  src: url("../font-test/specimen_files/RobotoCondensed-Regular.eot");
+  src: url("../font-test/specimen_files/RobotoCondensed-Regular.eot?#iefix") format("embedded-opentype");
+  src: url("../font-test/specimen_files/RobotoCondensed-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: 'RobotoCondensedLightItalic';
+  src: url("../font-test/specimen_files/RobotoCondensed-LightItalic.ttf");
+}
+@font-face {
+  font-family: 'RobotoCondensedLight';
+  src: url("../font-test/specimen_files/RobotoCondensed-Light.ttf");
+  src: url("../font-test/specimen_files/RobotoCondensed-Light.eot");
+  src: url("../font-test/specimen_files/RobotoCondensed-Light.eot?#iefix") format("embedded-opentype");
+  src: url("../font-test/specimen_files/RobotoCondensed-Light.woff") format("woff");
+}
+@font-face {
+  font-family: 'RobotoCondensedItalic';
+  src: url("../font-test/specimen_files/RobotoCondensed-Italic.ttf");
+}
+@font-face {
+  font-family: 'RobotoCondensedBoldItalic';
+  src: url("../font-test/specimen_files/RobotoCondensed-BoldItalic.ttf");
+}
+@font-face {
+  font-family: 'RobotoCondensedBold';
+  src: url("../font-test/specimen_files/RobotoCondensed-Bold.ttf");
+}
+/**
+* Define global vars for xerox products page
+**/
+/**
+*Define mixins (methods) of general use
+**/
+/**
+* Define general styles to xerox products pages
+**/
+.container {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.container .col-xs-12 {
+  padding-right: 0.3em;
+  padding-left: 0.3em;
+}
+.container .row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/**
+* Define general style of button red with white font
+**/
+.xrx_products_button {
+  background-color: #ce3a48;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+}
+.xrx_products_button > span, .xrx_products_button > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.xrx_products_button > span {
+  padding-right: 0.5em;
+  font-family: "RobotoCondensedLight";
+  font-size: 1.3em;
+}
+.xrx_products_button:hover, .xrx_products_button:visited, .xrx_products_button:active, .xrx_products_button:focus {
+  color: white;
+  text-decoration: none;
+}
+.xrx_products_button .arrow_button {
+  width: 0.8em;
+  height: 1em;
+  background-image: url("../images/xrx-products/arrow_right.png");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+.xrx_products_button.small_button {
+  margin-top: 1em;
+  padding: 0.6em;
+  padding-top: 0.4em;
+  text-decoration: none;
+}
+.xrx_products_button.small_button span {
+  font-size: 1em;
+}
+.xrx_products_button.small_button .arrow_button {
+  width: 0.5em;
+}
+
+/**
+* Button View All gray with arrow
+**/
+.xrx_button_view_all {
+  padding: 0.1em 0.5em;
+  padding-bottom: 0.3em;
+  color: #333333;
+  border: 1px solid black;
+  background: #ebebeb;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+.xrx_button_view_all > span, .xrx_button_view_all > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.xrx_button_view_all > span {
+  padding-right: 0.5em;
+  font-family: "RobotoCondensedRegular";
+  font-size: 1em;
+  line-height: 1em;
+}
+.xrx_button_view_all .arrow_button {
+  width: 0.6em;
+  height: 0.9em;
+  background-image: url("../images/xrx-products/arrow_right_red.png");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+.xrx_button_view_all:hover, .xrx_button_view_all:visited, .xrx_button_view_all:active {
+  color: #333333;
+}
+.xrx_button_view_all.learn_more {
+  background-color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+.xrx_button_view_all.learn_more span {
+  font-size: 1.2em;
+}
+.xrx_button_view_all.learn_more.small_button {
+  padding: 3px 5px;
+  border: 1px solid #c1c1c1;
+  text-decoration: none;
+}
+.xrx_button_view_all.learn_more.small_button span {
+  font-size: 0.8em;
+}
+.xrx_button_view_all.learn_more.small_button .arrow_button {
+  width: 0.4em;
+}
+
+/**
+* Link style, red and underline
+**/
+.link_underline_red {
+  color: #ce3a48;
+  text-decoration: underline;
+  font-size: 1.2em;
+  font-family: "RobotoCondensedRegular";
+}
+.link_underline_red:hover, .link_underline_red:visited {
+  color: #ce3a48;
+}
+
+/**
+* Link style, black and underline
+**/
+.link_underline_black {
+  color: black;
+  text-decoration: underline;
+  font-size: 1em;
+  font-family: "RobotoCondensedRegular";
+}
+.link_underline_black:hover, .link_underline_black:visited {
+  color: black;
+}
+
+/**
+* Style arrows gray right and left(used for sliders)
+**/
+.arrow_slider_gray {
+  background-position: center;
+  background-size: 31% auto;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.arrow_slider_gray.arrow_left {
+  background-image: url("../images/xrx-products/arrow_left_slider.png");
+}
+.arrow_slider_gray.arrow_right {
+  background-image: url("../images/xrx-products/arrow_right_slider.png");
+}
+
+/**
+* Clear the float styles
+**/
+.clearfix {
+  clear: both;
+}
+
+/**
+* Small button with arrow white
+**/
+.arrow_red_generic {
+  width: 1.9em;
+  height: 1.9em;
+  background-color: #ce3a48;
+  background-image: url("../images/xrx-products/arrow_right.png");
+  background-position: center;
+  background-size: 31% auto;
+  background-repeat: no-repeat;
+}
+
+/**
+* Style combobox xerox
+**/
+.xrx_combobox {
+  font-size: 1.2em;
+  padding: 0.2em 0.5em;
+  font-family: "RobotoCondensedRegular";
+}
+
+/**
+* Style xerox simple button
+**/
+.xrx_button_simple {
+  font-size: .9em;
+  padding: 0 3px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+/**
+* Five stars style products
+**/
+.xrx_div_stars {
+  margin-left: 1em;
+}
+.xrx_div_stars > div {
+  display: inline-block;
+  vertical-align: top;
+  width: 15px;
+  height: 15px;
+  background-image: url("../images/xrx-products/star_empty.png");
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.xrx_div_stars > div.active_star {
+  background-image: url("../images/xrx-products/star_fill.png");
+}
+
+/**
+* Style toggle xrx
+**/
+.xrx_toggle_products {
+  display: table;
+}
+.xrx_toggle_products > div {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid black;
+  font-size: 0.9em;
+  padding: 0px 5px;
+  font-family: "RobotoCondensedLight";
+  cursor: pointer;
+}
+.xrx_toggle_products .active {
+  border: 2px solid #ce3a48;
+}
+
+/**
+*Persist button style link
+**/
+.xrx_products_button:hover,
+.xrx_products_button:active {
+  color: white;
+}
+
+/**
+* General style for each module in xerox products main page HARDWARE, SOLUTIONS, SUPPLIES, SUPPORT, INSIGHTS, ect
+**/
+.products_module {
+  width: 100%;
+  margin-top: 2em;
+}
+.products_module .products_title_module {
+  font-size: 2em;
+  padding-left: 1em;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.products_module .products_see_all_module {
+  text-align: right;
+}
+.products_module .products_see_all_module a {
+  color: black;
+}
+.products_module .products_see_all_module a h4 {
+  font-size: 1.5em;
+  font-family: "RobotoCondensedRegular";
+  margin-top: 1.3em;
+  display: inline-block;
+}
+.products_module .products_see_all_module a .red_arrow {
+  width: 0.8em;
+  height: 1.2em;
+  margin-left: 1em;
+  display: inline-block;
+  background-image: url("../images/xrx-products/arrow_right_red.png");
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/**
+* Set font family for xerox products general page
+**/
+.a, h1, h2, h3, h4, li, span, p {
+  font-family: "RobotoCondensedLight";
+}
+
+@media (min-width: 970px) {
+  .container {
+    width: 100%;
+  }
+}
+/**
+* Override width page tp 1200px for large screens
+**/
+@media screen and (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+/* 
+ * 	Core Owl Carousel CSS File
+ *	v1.3.3
+ */
+/* clearfix */
+.owl-carousel {
+  display: none;
+  position: relative;
+  width: 100%;
+  -ms-touch-action: pan-y;
+}
+.owl-carousel .owl-wrapper {
+  display: none;
+  position: relative;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+}
+.owl-carousel .owl-wrapper:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.owl-carousel .owl-wrapper-outer {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.owl-carousel .owl-wrapper-outer.autoHeight {
+  -webkit-transition: height 500ms ease-in-out;
+  -moz-transition: height 500ms ease-in-out;
+  -ms-transition: height 500ms ease-in-out;
+  -o-transition: height 500ms ease-in-out;
+  transition: height 500ms ease-in-out;
+}
+.owl-carousel .owl-item {
+  float: left;
+}
+
+/* display none until init */
+.owl-controls {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.owl-controls .owl-page, .owl-controls .owl-buttons div {
+  cursor: pointer;
+}
+
+/* mouse grab icon */
+.grabbing {
+  cursor: url(grabbing.png) 8 8, move;
+}
+
+/* fix */
+.owl-carousel .owl-wrapper, .owl-carousel .owl-item {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+}
+
+/*
+* 	Owl Carousel Owl Demo Theme 
+*	v1.3.3
+*/
+.owl-theme .owl-controls {
+  margin-top: 10px;
+  text-align: center;
+}
+.owl-theme .owl-controls .owl-buttons div {
+  color: #FFF;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  /*IE7 life-saver */
+  margin: 5px;
+  padding: 3px 10px;
+  font-size: 12px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  background: white;
+  border: 1px solid #869791;
+  filter: Alpha(Opacity=50);
+  /*IE7 fix*/
+  opacity: 0.5;
+}
+.owl-theme .owl-controls.clickable .owl-buttons div:hover {
+  filter: Alpha(Opacity=100);
+  /*IE7 fix*/
+  opacity: 1;
+  text-decoration: none;
+}
+.owl-theme .owl-controls .owl-page {
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  /*IE7 life-saver */
+}
+.owl-theme .owl-controls .owl-page span {
+  display: block;
+  width: 15px;
+  height: 15px;
+  margin: 5px 7px;
+  filter: Alpha(Opacity=50);
+  /*IE7 fix*/
+  opacity: 0.5;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border: 1px ridge #869791;
+  background: white;
+}
+.owl-theme .owl-controls .owl-page.active span {
+  filter: Alpha(Opacity=100);
+  background: #ce3a48;
+  border: none;
+  opacity: 1;
+}
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+  filter: Alpha(Opacity=100);
+  /*IE7 fix*/
+  opacity: 1;
+}
+.owl-theme .owl-controls .owl-page span.owl-numbers {
+  height: auto;
+  width: auto;
+  color: #FFF;
+  padding: 2px 10px;
+  font-size: 12px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+}
+
+/* Styling Next and Prev buttons */
+/* Clickable class fix problem with hover on touch devices */
+/* Use it for non-touch hover action */
+/* Styling Pagination*/
+/* If PaginationNumbers is true */
+/* preloading images */
+.owl-item.loading {
+  min-height: 150px;
+  background: url(AjaxLoader.gif) no-repeat center center;
+}
+
+/**
+* Style for radio buttons
+**/
+input[type="radio"] {
+  display: none;
+}
+
+input[type="radio"] + label {
+  color: black;
+  font-family: "RobotoCondensedLight";
+  font-weight: normal;
+}
+
+input[type="radio"] + label span {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin: -1px 8px 0 0;
+  vertical-align: middle;
+  cursor: pointer;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  font-weight: normal;
+}
+
+input[type="radio"] + label span {
+  background-color: white;
+  border: 1px solid #c1c1c1;
+}
+
+input[type="radio"]:checked + label span {
+  background-color: white;
+  border: 2px solid #ce3a48;
+}
+
+input[type="radio"] + label span,
+input[type="radio"]:checked + label span {
+  -webkit-transition: background-color 0.4s linear;
+  -o-transition: background-color 0.4s linear;
+  -moz-transition: background-color 0.4s linear;
+  transition: background-color 0.4s linear;
+}
+
+/**
+* End style radios
+**/
+/* Base for label styling */
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+  position: absolute;
+  left: -9999px;
+}
+
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label {
+  position: relative;
+  padding-left: 25px;
+  cursor: pointer;
+}
+
+/* checkbox aspect */
+[type="checkbox"]:not(:checked) + label:before,
+[type="checkbox"]:checked + label:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 11px;
+  height: 11px;
+  border: 1px solid #aaa;
+  background: #f8f8f8;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+/* checked mark aspect */
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0px;
+  font-size: 14px;
+  width: 11px;
+  height: 11px;
+  color: #09ad7e;
+  transition: all .2s;
+  background: #ce3a48;
+}
+
+/* checked mark aspect changes */
+[type="checkbox"]:not(:checked) + label:after {
+  opacity: 0;
+  transform: scale(0);
+}
+
+[type="checkbox"]:checked + label:after {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* disabled checkbox */
+[type="checkbox"]:disabled:not(:checked) + label:before,
+[type="checkbox"]:disabled:checked + label:before {
+  box-shadow: none;
+  border-color: #bbb;
+  background-color: #ddd;
+}
+
+[type="checkbox"]:disabled:checked + label:after {
+  color: #999;
+}
+
+[type="checkbox"]:disabled + label {
+  color: #aaa;
+}
+
+/* accessibility */
+[type="checkbox"]:checked:focus + label:before,
+[type="checkbox"]:not(:checked):focus + label:before {
+  border: 1px dotted blue;
+}
+
+/* hover style just for information */
+label:hover:before {
+  border: 1px solid #4778d9 !important;
+}
+
+/**
+* Styles for Main Navigation Bar: INSIGHTS, SERVICES, PRODUCTS:
+**/
+.main_navigation_nav ul {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0;
+}
+.main_navigation_nav ul li {
+  display: inline-block;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  font-size: 1.4em;
+  text-align: center;
+}
+.main_navigation_nav ul li a {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: "RobotoCondensedRegular";
+}
+.main_navigation_nav ul .li_active {
+  border-bottom: 4px solid #ce3a48;
+}
+
+/**
+* Styles to main banner in main page products 
+**/
+.container_banner_product {
+  width: 100%;
+}
+.container_banner_product .title_banner_phone {
+  text-color: black;
+  font-size: 1.4em;
+  z-index: 3;
+}
+.container_banner_product .phone {
+  position: relative;
+  font-family: "RobotoCondensedRegular";
+}
+.container_banner_product .container_img_slogan {
+  position: relative;
+}
+.container_banner_product .container_img_slogan .banner_img_product {
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+.container_banner_product .container_img_slogan .product_slogan_button {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  z-index: 3;
+  color: white;
+  margin-top: 5em;
+  margin-left: 2em;
+}
+
+/**
+* Styles for tablet and phones screens
+**/
+@media screen and (max-width: 768px) {
+  .container_banner_product .container_img_slogan .banner_img_product {
+    position: relative;
+  }
+  .container_banner_product .container_img_slogan .product_slogan_button {
+    position: relative;
+    margin-top: 0px;
+    margin-left: 0px;
+    color: black;
+  }
+}
+/**
+* Styles for screens smaller 800px
+**/
+@media screen and (max-width: 970px) {
+  .container_banner_product .container_img_slogan .product_slogan_button {
+    margin-top: 0px;
+    margin-left: 1em;
+  }
+}
+/**
+* Style for Secondary Bar Navigation: HARDWARE, SOLUTIONS, SUPPLIES, SUPPORT, INSIGHTS
+**/
+.secondary_products_navigation {
+  width: 100%;
+  height: 5.5em;
+}
+.secondary_products_navigation .container_secondary_navigation {
+  background-color: #ebebeb;
+  width: 100%;
+  height: 100%;
+}
+.secondary_products_navigation .container_secondary_navigation ul {
+  margin: 0 auto;
+  vertical-align: middle;
+  display: inline-block;
+  padding-top: 1.9em;
+  padding-left: 1em;
+  color: #c1c1c1;
+}
+.secondary_products_navigation .container_secondary_navigation ul li {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 1.3em;
+  padding-left: 1.3em;
+  padding-right: 1.3em;
+}
+.secondary_products_navigation .container_secondary_navigation ul li a {
+  color: #333333;
+  text-decoration: none;
+  cursor: pointer;
+}
+.secondary_products_navigation .container_secondary_navigation ul :last-child {
+  border-right: 0px;
+}
+
+.tabs_and_content_modules {
+  width: 100%;
+}
+.tabs_and_content_modules ul {
+  text-align: center;
+}
+.tabs_and_content_modules ul li {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 0px;
+  float: none;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+}
+.tabs_and_content_modules ul li a {
+  color: #333333;
+  background-color: transparent;
+  border: none;
+  font-size: 1.2em;
+  border-right: 1px solid #ebebeb;
+  height: 3em;
+  padding: 0em 1.5em;
+  line-height: 1;
+  text-align: left;
+  display: table-cell;
+  vertical-align: middle;
+}
+.tabs_and_content_modules ul li a:hover, .tabs_and_content_modules ul li a:focus {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  border-right: 1px solid #ebebeb;
+}
+.tabs_and_content_modules ul li a span {
+  display: block;
+}
+.tabs_and_content_modules ul .active {
+  background: #ce3a48;
+}
+.tabs_and_content_modules ul .active a {
+  color: white;
+  border: none;
+  background-color: transparent;
+}
+.tabs_and_content_modules ul .active a:hover, .tabs_and_content_modules ul .active a:focus {
+  border: none;
+  background-color: transparent;
+  color: white;
+}
+.tabs_and_content_modules .panel-group.responsive .panel {
+  border-radius: 0px;
+  border: none;
+}
+.tabs_and_content_modules .panel-group.responsive .panel .panel-heading {
+  padding: 10px 20px;
+}
+.tabs_and_content_modules .panel-group.responsive .panel .panel-heading .panel-title a {
+  width: 100%;
+  display: block;
+  background-image: url("../images/xrx-products/plus.png");
+  background-position: right center;
+  background-size: 15px auto;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  font-family: "RobotoCondensedRegular";
+}
+.tabs_and_content_modules .panel-group.responsive .panel .panel-heading .panel-title a span {
+  font-family: "RobotoCondensedRegular";
+}
+.tabs_and_content_modules .panel-group.responsive .panel .panel-heading .panel-title a[aria-expanded="true"] {
+  color: white;
+  background-image: url("../images/xrx-products/minus.png");
+}
+.tabs_and_content_modules .panel-group.responsive .panel .selected_heading {
+  background-color: #ce3a48;
+}
+.tabs_and_content_modules .panel-group.responsive .panel + .panel {
+  margin-top: 3px;
+}
+
+.footer_module_products {
+  margin-top: 1em;
+  margin-left: 2em;
+}
+.footer_module_products span {
+  vertical-align: middle;
+  display: inline-block;
+}
+.footer_module_products span a {
+  font-size: 1.2em;
+  color: #333333;
+  display: inline-block;
+  padding-right: 1em;
+}
+.footer_module_products span a.text_underline {
+  text-decoration: underline;
+  padding-left: 1em;
+}
+.footer_module_products span a:hover {
+  text-decoration: none;
+}
+.footer_module_products span span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.footer_module_products_phone {
+  margin-top: 1em;
+}
+.footer_module_products_phone a {
+  font-family: "RobotoCondensedRegular";
+  font-size: 1.2em;
+}
+.footer_module_products_phone .align_left {
+  text-align: left;
+}
+.footer_module_products_phone .align_left a {
+  color: #ce3a48;
+  text-decoration: underline;
+}
+.footer_module_products_phone .align_right {
+  text-align: right;
+}
+
+.content_h_and_s {
+  border-bottom: 1px solid #ebebeb;
+}
+.content_h_and_s > div {
+  min-height: 180px;
+}
+.content_h_and_s .arrow_slider_printers {
+  background-position: center;
+  background-size: 31% auto;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.content_h_and_s .arrow_slider_printers.arrow_left {
+  background-image: url("../images/xrx-products/arrow_left_slider.png");
+}
+.content_h_and_s .arrow_slider_printers.arrow_right {
+  background-image: url("../images/xrx-products/arrow_right_slider.png");
+}
+.content_h_and_s .owl-content_h_and_s .item {
+  vertical-align: middle;
+  height: 100%;
+  min-height: 180px;
+  text-align: center;
+}
+.content_h_and_s .owl-content_h_and_s .item .container_image_xrx_product {
+  padding-top: 1.6em;
+  text-align: center;
+}
+.content_h_and_s .owl-content_h_and_s .item h4 {
+  text-align: center;
+  font-family: "RobotoCondensedRegular";
+  font-size: 1.3em;
+}
+.content_h_and_s .owl-content_h_and_s .item .content_description_buttton {
+  text-align: left;
+}
+.content_h_and_s .owl-content_h_and_s .item .content_description_buttton .xrx_item_product_description {
+  font-size: 1.4em;
+  padding-bottom: 1em;
+}
+.content_h_and_s .owl-content_h_and_s .item .content_description_buttton .xrx_button_view_all.learn_more {
+  margin-top: 1em;
+}
+.content_h_and_s .owl-content_h_and_s .item .content_description_buttton .link_underline_red {
+  margin-top: 1em;
+}
+
+@media screen and (max-width: 768px) {
+  .content_h_and_s {
+    border-bottom: none;
+  }
+  .content_h_and_s > div {
+    min-height: 330px;
+  }
+  .content_h_and_s .owl-content_h_and_s .item {
+    min-height: 330px;
+  }
+  .content_h_and_s .owl-content_h_and_s .item h4 {
+    font-size: 1.7em;
+    text-align: left;
+  }
+}
+.row_slider_solutions {
+  height: 420px;
+  background-color: #ebebeb;
+}
+.row_slider_solutions > div {
+  height: 100%;
+}
+
+.item_solution_feed {
+  width: 420px;
+  height: 100%;
+  padding: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.item_solution_feed .image_title_feed {
+  position: relative;
+  height: 231.0px;
+}
+.item_solution_feed .image_title_feed img {
+  top: 0;
+  width: 100%;
+  position: absolute;
+}
+.item_solution_feed .image_title_feed h4 {
+  top: 0.7em;
+  left: 0.7em;
+  color: white;
+  position: absolute;
+  font-size: 1.6em;
+}
+.item_solution_feed .container_desc_feed {
+  margin: 1em 0em;
+  font-size: 1.2em;
+}
+
+@media screen and (max-width: 1200px) {
+  .item_solution_feed {
+    width: 340px;
+  }
+  .item_solution_feed .image_title_feed {
+    height: 187.0px;
+  }
+}
+.item_generic_module {
+  max-width: 390px;
+  background-color: #ebebeb;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2em;
+}
+.item_generic_module.center_item {
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.item_generic_module > img, .item_generic_module > div {
+  width: 100%;
+  display: block;
+}
+.item_generic_module .title_desc_generic_item {
+  padding-left: 1.2em;
+}
+.item_generic_module .title_desc_generic_item .title_arrow_generic h4 {
+  float: left;
+  padding-right: 1.5em;
+  font-size: 1.6em;
+}
+.item_generic_module .title_desc_generic_item .title_arrow_generic .arrow_red_generic {
+  float: right;
+  margin-top: 7px;
+}
+.item_generic_module .title_desc_generic_item .description_generic {
+  padding-right: 1em;
+}
+.item_generic_module .title_desc_generic_item .description_generic p {
+  font-size: 1.3em;
+}
+
+@media screen and (max-width: 480px) {
+  .item_generic_module {
+    width: 340px;
+  }
+}
+.tags_useful_links {
+  list-style: none;
+  padding-left: 0;
+}
+.tags_useful_links li a {
+  color: black;
+  text-decoration: none;
+}
+
+.useful_styles h4 {
+  font-size: 1.6em;
+  margin-bottom: 1.4em;
+  font-family: "RobotoCondensedRegular";
+}
+.useful_styles h5 {
+  font-size: 1.1em;
+  font-family: "RobotoCondensedRegular";
+  margin-bottom: 5px;
+}
+
+.links_social_network {
+  padding-bottom: 1em;
+  border-bottom: 1px solid #c1c1c1;
+}
+.links_social_network > a {
+  margin-right: 1em;
+}
+
+.table_useful_links {
+  border-bottom: 1px solid #c1c1c1;
+  display: table;
+  height: 90px;
+  width: 100%;
+}
+.table_useful_links:last-child {
+  border-bottom: none;
+}
+.table_useful_links > div {
+  display: table-row;
+}
+.table_useful_links > div > div {
+  display: table-cell;
+  height: 100%;
+  vertical-align: middle;
+}
+.table_useful_links > div .cell_links_icon {
+  background-position: center 20%;
+  background-repeat: no-repeat;
+  background-size: 70% auto;
+  width: 54px;
+}
+.table_useful_links > div .cell_links_icon.icon_twitter {
+  background-image: url("../images/xrx-products/tw_white.png");
+}
+.table_useful_links > div .cell_links_icon.icon_linkedin {
+  background-image: url("../images/xrx-products/ln_white.png");
+}
+.table_useful_links > div .cell_links_desc a, .table_useful_links > div .cell_links_desc p {
+  font-size: 0.9em;
+}
+.table_useful_links > div .cell_links_desc a {
+  color: #ce3a48;
+  text-decoration: none;
+  font-family: "RobotoCondensedLight";
+}
+.table_useful_links > div .cell_links_desc p {
+  margin-bottom: 3px;
+}
+.table_useful_links > div .cell_links_desc p a {
+  font-size: 1.1em;
+}
+
+/**
+* Bread crumbs title top page
+**/
+.path_web_navigation {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.path_web_navigation span a {
+  color: black;
+  text-decoration: none;
+}
+.path_web_navigation span a.disable_link {
+  color: #c1c1c1;
+}
+
+/**
+* Find products title
+**/
+.title_web_navigation h4 {
+  font-family: "RobotoCondensedRegular";
+}
+
+/**
+* Banner Find Products and image banner hero
+**/
+.row_banner_find_products {
+  height: 200px;
+  background: #A8A8A8;
+}
+.row_banner_find_products > div {
+  height: 100%;
+}
+.row_banner_find_products h4 {
+  color: white;
+  font-size: 2em;
+  position: relative;
+  top: 2.7em;
+}
+.row_banner_find_products .image_banner_fp {
+  background-image: url("../images/xrx-products/find_banner_hero.png");
+  background-size: 76% auto;
+  background-position: 87% bottom;
+  background-repeat: no-repeat;
+}
+
+/**
+* Nav bar category products
+**/
+.container_products_nav {
+  height: 48px;
+  background-color: #ebebeb;
+  padding-left: 0;
+}
+.container_products_nav .nav_products {
+  list-style: none;
+  height: 100%;
+  padding-left: 0;
+}
+.container_products_nav .nav_products li {
+  display: inline-block;
+  vertical-align: middle;
+  width: 150px;
+  height: 100%;
+}
+.container_products_nav .nav_products li > div {
+  width: 100%;
+  height: 90%;
+  margin-top: 3px;
+  border-right: 1px solid #c1c1c1;
+  vertical-align: middle;
+  padding-left: 1em;
+}
+.container_products_nav .nav_products li > div a {
+  color: black;
+  text-decoration: none;
+}
+.container_products_nav .nav_products li > div.center_cuadre {
+  padding-top: 1em;
+  text-align: center;
+  width: 100%;
+  padding-left: 0em;
+}
+.container_products_nav .nav_products li.active {
+  background-color: #ce3a48;
+  color: white;
+}
+.container_products_nav .nav_products li.active > div {
+  border-right: 0;
+}
+.container_products_nav .nav_products li.active > div a {
+  color: white;
+}
+.container_products_nav .nav_products li:last-child > div {
+  border-right: 0;
+}
+
+/**
+* Options and Container item list products
+**/
+.row_products_list {
+  margin-top: 2em;
+  /**
+  * Container options and list products
+  **/
+}
+.row_products_list > div {
+  min-height: 300px;
+}
+.row_products_list .products_options_col {
+  padding-left: 4px;
+  padding-right: 4px;
+  /**
+  * Label Options and button clear selections
+  **/
+  /**
+  * Looking for help label
+  **/
+}
+.row_products_list .products_options_col .options_label_clear {
+  padding-bottom: 0.4em;
+}
+.row_products_list .products_options_col .options_label_clear .label_options {
+  float: left;
+  font-size: 1.4em;
+}
+.row_products_list .products_options_col .options_label_clear .button_clear_selections {
+  float: right;
+  font-size: 0.8em;
+  padding: 0px 3px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.row_products_list .products_options_col .looking_for_help {
+  padding-left: 1em;
+}
+.row_products_list .products_options_col .looking_for_help h4, .row_products_list .products_options_col .looking_for_help span {
+  font-family: "RobotoCondensedRegular";
+}
+.row_products_list .products_options_col .looking_for_help span a {
+  color: #ce3a48;
+  text-decoration: none;
+}
+.row_products_list .products_grid_list_col .options_grid_list_product {
+  text-align: right;
+  margin-bottom: 1em;
+}
+.row_products_list .products_grid_list_col .options_grid_list_product > span, .row_products_list .products_grid_list_col .options_grid_list_product > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.row_products_list .products_grid_list_col .options_grid_list_product .xrx_button_simple {
+  margin-left: 5px;
+}
+.row_products_list .products_grid_list_col .title_phone_product {
+  font-family: "RobotoCondensedRegular";
+}
+.row_products_list .products_grid_list_col .container_grid_list_product {
+  text-align: center;
+}
+.row_products_list .products_grid_list_col .container_grid_list_product .item_gl_product_finder {
+  display: inline-table;
+  margin-bottom: 3px;
+}
+.row_products_list .products_grid_list_col .row_button_show_more .xrx_button_view_all {
+  border: none;
+  padding-left: 0;
+  margin-top: 5px;
+  display: inline-table;
+}
+.row_products_list .products_grid_list_col .row_button_show_more .xrx_button_view_all > div {
+  margin-top: 5px;
+}
+
+/**
+* Item in list or grid products page in grid style, list style
+**/
+.item_gl_product_finder {
+  display: table;
+  min-height: 160px;
+  padding-left: 0;
+  padding-right: 0;
+  width: 33%;
+  position: relative;
+  text-align: left;
+  border: 1px solid #c1c1c1;
+}
+.item_gl_product_finder > div {
+  display: table-row;
+  height: 100%;
+  width: 100%;
+}
+.item_gl_product_finder > div > div {
+  display: table-cell;
+  height: 100%;
+}
+.item_gl_product_finder > div .cell_resume_product_info {
+  width: 100%;
+  padding-top: 10px;
+  vertical-align: middle;
+}
+.item_gl_product_finder > div .cell_resume_product_info .category_product_item {
+  padding-left: 1em;
+  font-family: "RobotoCondensedRegular";
+  font-size: 1.2em;
+}
+.item_gl_product_finder > div .cell_resume_product_info .image_product_item {
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 26px;
+}
+.item_gl_product_finder > div .cell_resume_product_info .image_product_item .padding_image {
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+.item_gl_product_finder > div .cell_resume_product_info .image_product_item .padding_image img {
+  width: 70%;
+}
+.item_gl_product_finder > div .cell_resume_product_info .description_product_item {
+  padding: 1em;
+  padding-top: 0.3em;
+  background-color: #F5F5F5;
+}
+.item_gl_product_finder > div .cell_resume_product_info .description_product_item h4 {
+  margin-bottom: 3px;
+}
+.item_gl_product_finder > div .cell_resume_product_info .description_product_item .div_price_stars > span, .item_gl_product_finder > div .cell_resume_product_info .description_product_item .div_price_stars > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.item_gl_product_finder > div .cell_resume_product_info .description_product_item .div_price_stars .xrx_price {
+  font-size: 1.3em;
+  color: #ce3a48;
+}
+.item_gl_product_finder > div .cell_details_product_info {
+  width: 0%;
+  display: none;
+  vertical-align: middle;
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+.item_gl_product_finder > div .cell_details_product_info h4 {
+  font-size: 1.5em;
+}
+.item_gl_product_finder > div .cell_details_product_info .details_layout_tablets {
+  display: none;
+}
+.item_gl_product_finder > div .cell_details_product_info .details_layout_tablets h5 {
+  font-family: "RobotoCondensedRegular";
+  font-size: 1.3em;
+  margin-bottom: 3px;
+}
+.item_gl_product_finder > div .cell_details_product_info .details_layout_tablets .link_underline_red {
+  font-size: 1.5em;
+}
+.item_gl_product_finder > div .cell_details_product_info .details_layout_tablets a {
+  display: block;
+}
+.item_gl_product_finder > div .cell_details_product_info .details_layout_tablets .price_product {
+  color: #ce3a48;
+  font-size: 1.6em;
+}
+.item_gl_product_finder > div .cell_details_product_info .details_layout_tablets .xrx_div_stars {
+  margin-left: 0;
+  margin-top: 1.3em;
+}
+.item_gl_product_finder > div .cell_details_product_info .div_price_stars > span, .item_gl_product_finder > div .cell_details_product_info .div_price_stars > div {
+  display: inline-block;
+  vertical-align: top;
+}
+.item_gl_product_finder > div .cell_details_product_info .div_price_stars .xrx_div_stars {
+  margin-left: 0;
+}
+.item_gl_product_finder > div .cell_details_product_info .div_price_stars span {
+  line-height: 1;
+}
+.item_gl_product_finder > div .cell_details_product_info .description_product_lg {
+  font-family: "RobotoCondensedRegular";
+  font-size: 1.15em;
+}
+.item_gl_product_finder > div .cell_details_product_info .options_about_item_product {
+  padding-left: 0;
+}
+.item_gl_product_finder > div .cell_details_product_info .options_about_item_product li {
+  display: inline-block;
+  vertical-align: middle;
+  border-right: 1px solid #c1c1c1;
+  padding-right: 1em;
+  margin-left: 5px;
+}
+.item_gl_product_finder > div .cell_details_product_info .options_about_item_product li a {
+  text-decoration: none;
+  color: black;
+}
+.item_gl_product_finder > div .cell_details_product_info .options_about_item_product li:last-child {
+  border-right: 0;
+  margin-left: 0;
+}
+.item_gl_product_finder > div .cell_price_product_info {
+  width: 0%;
+  display: none;
+  vertical-align: top;
+  padding-top: 1em;
+}
+.item_gl_product_finder > div .cell_price_product_info h5 {
+  color: #ce3a48;
+  font-size: 2.4em;
+  font-family: "RobotoCondensedLight";
+}
+.item_gl_product_finder > div .cell_price_product_info > span {
+  font-family: "RobotoCondensedRegular";
+}
+.item_gl_product_finder > div .cell_price_product_info > a {
+  display: block;
+}
+.item_gl_product_finder > div .cell_price_product_info .xrx_products_button {
+  margin-top: 0.1em;
+  margin-bottom: 1em;
+  padding: 6px 15px;
+  display: inline-block;
+}
+.item_gl_product_finder > div .cell_price_product_info .link_underline_black {
+  margin-top: 0.6em;
+}
+.item_gl_product_finder .cuadre_compare {
+  position: absolute;
+  right: 0px;
+  top: 10px;
+  display: table-cell;
+  vertical-align: middle;
+  width: 90px;
+  height: 20px;
+  text-align: right;
+  padding-top: 0.4em;
+}
+.item_gl_product_finder .cuadre_compare .label_compare {
+  margin-top: 3px;
+  font-weight: normal;
+  font-family: "RobotoCondensedLight";
+  font-size: 0.9em;
+}
+.item_gl_product_finder .cuadre_compare .label_checkbox {
+  margin-top: -5px;
+}
+.item_gl_product_finder .cuadre_compare .label_checkbox::before, .item_gl_product_finder .cuadre_compare .label_checkbox::after {
+  margin-top: -5px;
+}
+.item_gl_product_finder.list {
+  width: 100%;
+  border: 0;
+  border-top: 1px solid #ebebeb;
+}
+.item_gl_product_finder.list:last-child {
+  border-bottom: 1px solid #ebebeb;
+}
+.item_gl_product_finder.list > div .cell_resume_product_info {
+  width: 25%;
+}
+.item_gl_product_finder.list > div .cell_resume_product_info .category_product_item {
+  display: none;
+}
+.item_gl_product_finder.list > div .cell_resume_product_info .description_product_item {
+  display: none;
+}
+.item_gl_product_finder.list > div .cell_resume_product_info .image_product_item .padding_image {
+  width: 78%;
+}
+.item_gl_product_finder.list > div .cell_details_product_info {
+  width: 55%;
+  display: table-cell;
+}
+.item_gl_product_finder.list > div .cell_price_product_info {
+  display: table-cell;
+  width: 20%;
+}
+.item_gl_product_finder.list .cuadre_compare {
+  top: 0;
+  padding-top: 0;
+}
+
+#accordion > .panel > .panel-heading.active {
+  background-color: #A8A8A8;
+}
+
+/**
+* Accordion Xerox style option selections
+**/
+.accordion_xerox_style {
+  width: 100%;
+}
+.accordion_xerox_style .panel {
+  border-color: none;
+  border-radius: 0;
+  margin-top: 0;
+}
+.accordion_xerox_style .panel.panel-default {
+  margin-top: 0;
+}
+.accordion_xerox_style .panel .panel-heading {
+  background-color: white;
+  background-image: url("../images/xrx-products/plus.png");
+  background-size: 1em auto;
+  background-position: 90% center;
+  padding: 0;
+  background-repeat: no-repeat;
+}
+.accordion_xerox_style .panel .panel-heading.active {
+  background-image: url("../images/xrx-products/minus.png");
+  background-color: #ce3a48;
+  color: white;
+}
+.accordion_xerox_style .panel .panel-heading .panel-title a {
+  padding: 10px 15px;
+  text-decoration: none;
+  width: 100%;
+  display: block;
+  font-family: "RobotoCondensedRegular";
+}
+.accordion_xerox_style .panel .panel-heading .panel-title a:hover {
+  text-decoration: none;
+}
+.accordion_xerox_style .panel .panel-collapse .panel-body {
+  padding: 0;
+  background-color: #F5F5F5;
+}
+.accordion_xerox_style .panel .panel-collapse .panel-body ul {
+  list-style: none;
+  padding-left: 1em;
+  padding-top: 1em;
+}
+.accordion_xerox_style .panel .panel-collapse .panel-body ul li {
+  font-size: 1.1em;
+}
+
+/**
+* Accordion main (Select options)
+**/
+#accordion_in {
+  margin-bottom: 0px;
+}
+
+/**
+* Styles for tablet and phones screens
+**/
+@media screen and (max-width: 969px) {
+  /**
+  * Accordion in phones
+  **/
+  .accordion_xerox_style .panel .panel-heading {
+    background-color: #F5F5F5;
+  }
+
+  /**
+  * Item product list in phones and tabletsss
+  **/
+  .item_gl_product_finder {
+    width: 100%;
+    border: none;
+  }
+  .item_gl_product_finder > div .cell_resume_product_info {
+    width: 20%;
+  }
+  .item_gl_product_finder > div .cell_resume_product_info .category_product_item {
+    display: none;
+  }
+  .item_gl_product_finder > div .cell_resume_product_info .image_product_item {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .item_gl_product_finder > div .cell_resume_product_info .image_product_item .padding_image {
+    border: 2px solid #A8A8A8;
+    padding: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0px;
+    width: 92%;
+  }
+  .item_gl_product_finder > div .cell_resume_product_info .description_product_item {
+    display: none;
+  }
+  .item_gl_product_finder > div .cell_details_product_info {
+    width: 55%;
+    display: table-cell;
+    vertical-align: middle;
+    padding-top: 0;
+  }
+  .item_gl_product_finder > div .cell_details_product_info .details_layout_tablets {
+    display: initial;
+  }
+  .item_gl_product_finder > div .cell_details_product_info .details_layout_tablets .xrx_div_stars {
+    margin-top: 1em;
+  }
+  .item_gl_product_finder > div .cell_details_product_info .details_layout_desktop {
+    display: none;
+  }
+  .item_gl_product_finder .cuadre_compare {
+    display: none;
+  }
+}
+/**
+* Styles for phones screens
+**/
+@media screen and (max-width: 767px) {
+  .item_gl_product_finder > div .cell_resume_product_info {
+    width: 44%;
+  }
+}
