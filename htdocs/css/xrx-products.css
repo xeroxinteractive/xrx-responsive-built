@@ -1,0 +1,65 @@
+/*
+Error: Invalid CSS after "}": expected selector or at-rule, was "}"
+        on line 2598 of /var/lib/jenkins/jobs/1-source-checkout-and-build/workspace/trunk/src/scss/xrx-scss/xrx-products/xrx-product-details.scss
+        from line 26 of /var/lib/jenkins/jobs/1-source-checkout-and-build/workspace/trunk/src/scss/xrx-products.scss
+
+2593: 		.xrx_accordion_image {
+2594: 			max-width: 337;
+2595: 		}
+2596: 	}
+2597: }
+2598: }
+
+Backtrace:
+/var/lib/jenkins/jobs/1-source-checkout-and-build/workspace/trunk/src/scss/xrx-scss/xrx-products/xrx-product-details.scss:2598
+/var/lib/jenkins/jobs/1-source-checkout-and-build/workspace/trunk/src/scss/xrx-products.scss:26
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/scss/parser.rb:1165:in `expected'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/scss/parser.rb:1101:in `expected'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/scss/parser.rb:43:in `parse'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/engine.rb:393:in `_to_tree'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/engine.rb:299:in `to_tree'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:313:in `block in visit_import'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/stack.rb:88:in `block in with_import'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/stack.rb:115:in `with_frame'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/stack.rb:88:in `with_import'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:312:in `visit_import'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:36:in `visit'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/stack.rb:79:in `block in with_base'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/stack.rb:115:in `with_frame'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/stack.rb:79:in `with_base'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:52:in `map'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:36:in `visit'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:157:in `visit'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:8:in `visit'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/root_node.rb:36:in `css_tree'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/tree/root_node.rb:20:in `render'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/engine.rb:268:in `render'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/plugin/compiler.rb:492:in `update_stylesheet'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/plugin/compiler.rb:209:in `each'
+/var/lib/jenkins/.gem/ruby/2.0/gems/sass-3.4.9/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/lib/compass/sass_compiler.rb:40:in `compile!'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/lib/compass/commands/update_project.rb:49:in `perform'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/lib/compass/commands/base.rb:18:in `execute'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/lib/compass/commands/project_base.rb:19:in `execute'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/bin/compass:30:in `block in <top (required)>'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/bin/compass:44:in `call'
+/var/lib/jenkins/.gem/ruby/2.0/gems/compass-1.0.1/bin/compass:44:in `<top (required)>'
+/usr/local/bin/compass:23:in `load'
+/usr/local/bin/compass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"}\": expected selector or at-rule, was \"}\"\A         on line 2598 of /var/lib/jenkins/jobs/1-source-checkout-and-build/workspace/trunk/src/scss/xrx-scss/xrx-products/xrx-product-details.scss\A         from line 26 of /var/lib/jenkins/jobs/1-source-checkout-and-build/workspace/trunk/src/scss/xrx-products.scss\A \A 2593: 		.xrx_accordion_image {\A 2594: 			max-width: 337;\A 2595: 		}\A 2596: 	}\A 2597: }\A 2598: }"; }
