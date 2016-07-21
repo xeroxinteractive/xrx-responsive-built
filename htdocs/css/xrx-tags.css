@@ -1,0 +1,1283 @@
+.button-default {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border: 1px solid #d7d7d7;
+  padding: 5px 32px 5px 12px;
+  text-decoration: none;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  display: inline;
+  font-size: 18px;
+  position: relative;
+  background-color: #fff;
+  color: #333;
+}
+.button-default div {
+  display: none;
+}
+.button-default span {
+  font-weight: 400;
+}
+@media screen and (min-width: 768px) {
+  .button-default {
+    font-size: 16px;
+  }
+}
+.button-default:after {
+  content: '';
+  background-image: url("../images/xrx-products/new_icons/red_mobile_arrow.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 6.5px;
+  background-size: cover;
+  height: 10px;
+  margin-left: 15px;
+  position: absolute;
+  top: 54%;
+  -webkit-transform: translate(0, -54%);
+  -ms-transform: translate(0, -54%);
+  -o-transform: translate(0, -54%);
+  transform: translate(0, -54%);
+}
+.ie8 .button-default:after {
+  position: relative;
+  background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+  width: 9px;
+  height: 12px;
+  vertical-align: middle;
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+@media screen and (min-width: 768px) {
+  .button-default:after {
+    background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+    width: 9px;
+    height: 12px;
+  }
+}
+.button-default:hover {
+  text-decoration: none;
+  color: #D92231;
+}
+
+.button-default-no-hover, .xrx_products_container .xrx_button_view_all, .xrx_products_container .xrx_contain_text_hero_banner .xrx_button_view_all:hover {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border: 1px solid #d7d7d7;
+  padding: 5px 32px 5px 12px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  display: inline;
+  font-size: 18px;
+  position: relative;
+  background-color: #fff;
+  color: #333;
+}
+@media screen and (min-width: 768px) {
+  .button-default-no-hover, .xrx_products_container .xrx_button_view_all, .xrx_products_container .xrx_contain_text_hero_banner .xrx_button_view_all:hover {
+    font-size: 16px;
+  }
+}
+.button-default-no-hover span, .xrx_products_container .xrx_button_view_all span, .xrx_products_container .xrx_contain_text_hero_banner .xrx_button_view_all:hover span {
+  font-weight: 400;
+}
+.button-default-no-hover:after, .xrx_products_container .xrx_button_view_all:after, .xrx_products_container .xrx_contain_text_hero_banner .xrx_button_view_all:hover:after {
+  content: '';
+  background-image: url("../images/xrx-products/new_icons/red_mobile_arrow.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 6.5px;
+  background-size: cover;
+  height: 10px;
+  margin-left: 15px;
+  position: absolute;
+  top: 54%;
+  -webkit-transform: translate(0, -54%);
+  -ms-transform: translate(0, -54%);
+  -o-transform: translate(0, -54%);
+  transform: translate(0, -54%);
+}
+.ie8 .button-default-no-hover:after, .ie8 .xrx_products_container .xrx_button_view_all:after, .xrx_products_container .ie8 .xrx_button_view_all:after, .ie8 .xrx_products_container .xrx_contain_text_hero_banner .xrx_button_view_all:hover:after, .xrx_products_container .xrx_contain_text_hero_banner .ie8 .xrx_button_view_all:hover:after {
+  position: relative;
+  background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+  width: 9px;
+  height: 12px;
+  vertical-align: middle;
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+@media screen and (min-width: 768px) {
+  .button-default-no-hover:after, .xrx_products_container .xrx_button_view_all:after, .xrx_products_container .xrx_contain_text_hero_banner .xrx_button_view_all:hover:after {
+    background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+    width: 9px;
+    height: 12px;
+  }
+}
+
+.button-arrow-position-fix:after, .xrx_products_container .xrx_container_grid_list_product .xrx_products_button:after {
+  right: 15px;
+  margin-left: 0;
+}
+.ie8 .button-arrow-position-fix:after, .ie8 .xrx_products_container .xrx_container_grid_list_product .xrx_products_button:after, .xrx_products_container .xrx_container_grid_list_product .ie8 .xrx_products_button:after {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.button-red-mobile {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@media only screen and (max-width: 767px) {
+  .button-red-mobile {
+    background-color: #D92231;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Roboto Condensed", sans-serif;
+    color: #fff;
+    border: 1px solid transparent;
+    padding: 5px 32px 5px 12px;
+    position: relative;
+    display: inline;
+    font-weight: 400;
+    background-color: #D92231;
+  }
+  .button-red-mobile span {
+    font-weight: 400;
+  }
+  .button-red-mobile:after {
+    content: '';
+    background-image: url("../images/xrx-products/new_icons/white_mobile_arrow.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: contain;
+    margin-left: 15px;
+    position: absolute;
+    width: 6.5px;
+    height: 10px;
+    background-position: 0 0;
+    top: 54%;
+    -webkit-transform: translate(0, -54%);
+    -ms-transform: translate(0, -54%);
+    -o-transform: translate(0, -54%);
+    transform: translate(0, -54%);
+  }
+  .ie8 .button-red-mobile:after {
+    width: 9px;
+    height: 12px;
+    position: relative;
+    vertical-align: middle;
+    -webkit-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    transform: translate(0, 0);
+    background-image: url("../images/xrx-products/new_icons/white_button_arrow.png");
+  }
+  .button-red-mobile:hover {
+    text-decoration: none;
+    color: #D92231;
+    border-color: #d7d7d7;
+    background-color: #fff;
+  }
+  .button-red-mobile:hover:after {
+    background-image: url("../images/xrx-products/new_icons/red_mobile_arrow.png");
+  }
+  .ie8 .button-red-mobile:hover:after {
+    width: 9px;
+    height: 12px;
+    background-image: url("../images/xrx-products/new_icons/red_button_arrow.png") !important;
+  }
+}
+
+.button-red {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #D92231;
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #fff;
+  border: 1px solid transparent;
+  padding: 5px 32px 5px 12px;
+  position: relative;
+  display: inline;
+  font-weight: 400;
+  background-color: #D92231;
+}
+@media screen and (min-width: 768px) {
+  .button-red {
+    font-size: 16px;
+  }
+}
+.button-red span {
+  font-weight: 400;
+}
+.button-red:after {
+  content: '';
+  background-image: url("../images/xrx-products/new_icons/white_mobile_arrow.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: contain;
+  margin-left: 15px;
+  position: absolute;
+  width: 6.5px;
+  height: 10px;
+  top: 54%;
+  -webkit-transform: translate(0, -54%);
+  -ms-transform: translate(0, -54%);
+  -o-transform: translate(0, -54%);
+  transform: translate(0, -54%);
+}
+@media screen and (min-width: 768px) {
+  .button-red:after {
+    width: 9px;
+    height: 12px;
+    background-image: url("../images/xrx-products/new_icons/white_button_arrow.png");
+    background-repeat: no-repeat;
+  }
+}
+.ie8 .button-red:after {
+  width: 9px;
+  height: 12px;
+  position: relative;
+  vertical-align: middle;
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+  background-image: url("../images/xrx-products/new_icons/white_button_arrow.png");
+}
+.button-red:hover {
+  text-decoration: none;
+  color: #D92231;
+  border-color: #d7d7d7;
+  background-color: #fff;
+}
+.button-red:hover:after {
+  background-image: url("../images/xrx-products/new_icons/red_mobile_arrow.png");
+}
+@media screen and (min-width: 768px) {
+  .button-red:hover:after {
+    background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+  }
+}
+.ie8 .button-red:hover:after {
+  width: 9px;
+  height: 12px;
+  background-image: url("../images/xrx-products/new_icons/red_button_arrow.png") !important;
+}
+
+.button-red-no-hover, .xrx_products_container .xrx_products_button, .xrx_products_container .xrx_products_button.xrx_button_gray:hover, .xrx_products_container .xrx_button_view_all:hover {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #D92231;
+  color: #fff;
+  font-size: 18px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #fff;
+  border: 1px solid transparent;
+  padding: 5px 32px 5px 12px;
+  position: relative;
+  text-decoration: none;
+  display: inline;
+  font-weight: 400;
+  background-color: #D92231;
+}
+.button-red-no-hover span, .xrx_products_container .xrx_products_button span, .xrx_products_container .xrx_products_button.xrx_button_gray:hover span, .xrx_products_container .xrx_button_view_all:hover span {
+  font-weight: 400;
+}
+.button-red-no-hover.xrx_button_gray, .xrx_products_container .xrx_button_gray.xrx_products_button, .xrx_products_container .xrx_button_gray.xrx_products_button:hover, .xrx_products_container .xrx_button_gray.xrx_button_view_all:hover {
+  background-color: #727272;
+}
+@media screen and (min-width: 768px) {
+  .button-red-no-hover, .xrx_products_container .xrx_products_button, .xrx_products_container .xrx_products_button.xrx_button_gray:hover, .xrx_products_container .xrx_button_view_all:hover {
+    font-size: 16px;
+  }
+}
+.button-red-no-hover:after, .xrx_products_container .xrx_products_button:after, .xrx_products_container .xrx_products_button.xrx_button_gray:hover:after, .xrx_products_container .xrx_button_view_all:hover:after {
+  content: '';
+  background-image: url("../images/xrx-products/new_icons/white_mobile_arrow.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: contain;
+  margin-left: 15px;
+  position: absolute;
+  width: 6.5px;
+  height: 10px;
+  top: 54%;
+  -webkit-transform: translate(0, -54%);
+  -ms-transform: translate(0, -54%);
+  -o-transform: translate(0, -54%);
+  transform: translate(0, -54%);
+}
+@media screen and (min-width: 768px) {
+  .button-red-no-hover:after, .xrx_products_container .xrx_products_button:after, .xrx_products_container .xrx_products_button.xrx_button_gray:hover:after, .xrx_products_container .xrx_button_view_all:hover:after {
+    width: 9px;
+    height: 12px;
+    background-image: url("../images/xrx-products/new_icons/white_button_arrow.png");
+    background-repeat: no-repeat;
+  }
+}
+.ie8 .button-red-no-hover:after, .ie8 .xrx_products_container .xrx_products_button:after, .xrx_products_container .ie8 .xrx_products_button:after, .ie8 .xrx_products_container .xrx_products_button.xrx_button_gray:hover:after, .xrx_products_container .ie8 .xrx_products_button.xrx_button_gray:hover:after, .ie8 .xrx_products_container .xrx_button_view_all:hover:after, .xrx_products_container .ie8 .xrx_button_view_all:hover:after {
+  width: 9px;
+  height: 12px;
+  position: relative;
+  vertical-align: middle;
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+  background-image: url("../images/xrx-products/new_icons/white_button_arrow.png");
+}
+
+.button-red-hover, .xrx_products_container .xrx_products_button:hover {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-decoration: none;
+  color: #D92231;
+  border-color: #d7d7d7;
+  background-color: #fff;
+}
+.button-red-hover span, .xrx_products_container .xrx_products_button:hover span {
+  font-weight: 400;
+}
+.button-red-hover:after, .xrx_products_container .xrx_products_button:hover:after {
+  background-image: url("../images/xrx-products/new_icons/red_mobile_arrow.png");
+}
+@media screen and (min-width: 768px) {
+  .button-red-hover:after, .xrx_products_container .xrx_products_button:hover:after {
+    background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+  }
+}
+.ie8 .button-red-hover:after, .ie8 .xrx_products_container .xrx_products_button:hover:after, .xrx_products_container .ie8 .xrx_products_button:hover:after {
+  width: 9px;
+  height: 12px;
+  background-image: url("../images/xrx-products/new_icons/red_button_arrow.png") !important;
+}
+
+/**
+* Define global vars for xerox products page
+**/
+/**
+*Define mixins (methods) of general use
+**/
+/**
+* Define general styles to xerox products pages
+**/
+.xrx_products_container.container {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.xrx_products_container.container .col-xs-12 {
+  padding-right: 0.3em;
+  padding-left: 0.3em;
+}
+.xrx_products_container.container .row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/**
+* Define general style of button red with white font
+**/
+.xrx_products_container {
+  	/*.xrx_products_button{
+  		background-color:$xrx-dark-red;
+  		padding:1em;
+  		color:white;
+  		text-decoration:none;
+  		border:1px solid transparent;
+  		&:hover{
+  			background-color:white;
+  			border:1px solid $xrx-gray-divisor-secondary-nav;
+  			>span{
+  				color:$xrx-dark-red;
+  			}
+  			.xrx_arrow_button{
+  				background-image:url('../images/xrx-products/arrow_right_red.png');
+  			}
+  		}
+  		>span,>div{
+  			display:inline-block;
+  			vertical-align:middle;
+  		}
+  
+  		>span{
+  			padding-right:0.5em;
+  			@include xrx-font-light();
+  			font-size: 1.2em;
+  		}
+  		&:visited,&:active,&:focus{
+  			text-decoration:none;
+  		}
+  		.xrx_arrow_button{
+  			width:0.6em;
+  			height:1em;
+  			background-image:url('../images/xrx-products/arrow_right.png');
+  			background-repeat:no-repeat;
+  			background-size: 100% auto;
+  			background-position:center;
+  		}
+  
+  		&.xrx_small_button{
+  			margin-top:1em;
+  			padding:0.6em;
+  			padding-top:0.4em;
+  			text-decoration:none;
+  			span{
+  				font-size:1em;
+  			}
+  			.xrx_arrow_button{
+  				width:0.5em;
+  			}
+  		}
+  
+  		&.xrx_button_gray{
+  			background-color:$xrx-gray-button;
+  			>span{
+  				color:white;
+  			}
+  			.xrx_arrow_button{
+  				background-image:url('../images/xrx-products/arrow_right.png');
+  			}
+  		}
+  	}*/
+  /**
+  * Button View All gray with arrow
+  **/
+  	/*.xrx_button_view_all{
+  		padding:0.3em 0.5em;
+  		color:$xerox-gray;
+  		border:1px solid $xerox-c1;
+  		background:#fff;
+  		font-size:1.2em;
+  		text-decoration:none;
+  		line-height:1;
+  		display:table-cell;
+  		>span,>div{
+  			display:inline-block;
+  			vertical-align:middle;
+  		}
+  
+  		>span{
+  			padding-right:0.5em;
+  			@include xrx-font-normal();
+  			font-size: 1em;
+  			line-height:1em;
+  		}
+  
+  		.xrx_arrow_button{
+  			width:0.6em;
+  			height:0.9em;
+  			background-image:url('../images/xrx-products/arrow_right_red.png');
+  			background-repeat:no-repeat;
+  			background-size: 100% auto;
+  			background-position:center;
+  		}
+  
+  		&:hover,&:visited,&:active{
+  			color:$xrx-gray-text-secondary-nav;
+  		}
+  
+  		&.xrx_learn_more{
+  			background-color:white;
+  			padding:10px 15px;
+  			text-decoration:none;
+  			span{
+  				font-size:1.2em;
+  			}
+  			&.xrx_small_button{
+  				padding:2px 5px;
+  				padding-bottom:5px;
+  				border:1px solid $xrx-gray-divisor-secondary-nav;
+  				text-decoration:none;
+  				span{
+  					font-size:0.8em;
+  				}
+  				.xrx_arrow_button{
+  					width:0.4em;
+  				}
+  			}
+  			&:hover{
+  				color:$xrx-dark-red;
+  			}
+  		}
+  	}*/
+  /**
+  * Style for gray button
+  **/
+  /**
+  * Link style, red and underline
+  **/
+  /**
+  * Style for common link in xrx pages
+  **/
+  /**
+  * Link style, black and underline
+  **/
+  /**
+  * Style arrows gray right and left(used for sliders)
+  **/
+  /**
+  * Clear the float styles
+  **/
+  /**
+  * Small button with arrow white
+  **/
+  /**
+  * Style combobox xerox
+  **/
+  /**
+  * Style xerox simple button
+  **/
+  /**
+  * Five stars style products
+  **/
+  /**
+  * Style toggle xrx
+  **/
+  /**
+  * Style button without border
+  **/
+  /**
+  * Style for quantity feature
+  * example : Speed, Print quantity, Ease of Use, etc.
+  **/
+  /**
+  *Persist button style link
+  **/
+  /**
+  * General style for each module in xerox products main page HARDWARE, SOLUTIONS, SUPPLIES, SUPPORT, INSIGHTS, ect
+  **/
+}
+.xrx_products_container .xrx_products_button {
+  cursor: pointer;
+}
+.xrx_language_he .xrx_products_container .xrx_products_button:after {
+  margin-right: 15px;
+  margin-left: 0;
+  top: 35%;
+  transform: scaleX(-1);
+}
+.xrx_products_container .xrx_products_button div {
+  display: none;
+}
+.xrx_products_container .xrx_products_button:hover {
+  color: #D92231 !important;
+}
+.xrx_products_container .xrx_products_button:hover.xrx_button_gray {
+  background-color: #D92231 !important;
+  color: #fff !important;
+}
+.xrx_products_container .xrx_cart_button {
+  margin: 10px;
+}
+.xrx_products_container .xrx_cart_button_right {
+  float: right;
+}
+.xrx_products_container .xrx_table_information.row .xrx_products_button {
+  line-height: 2em;
+}
+.xrx_language_he .xrx_products_container .xrx_button_view_all {
+  padding-left: 32px;
+  padding-right: 12px;
+}
+.xrx_language_he .xrx_products_container .xrx_button_view_all:after {
+  margin-left: 0;
+  margin-right: 15px;
+  transform: scaleX(-1);
+  top: 35%;
+}
+.xrx_language_he .xrx_products_container .xrx_button_view_all:hover:after {
+  margin-left: 0;
+  margin-right: 15px;
+  transform: scaleX(-1);
+  top: 35%;
+}
+.xrx_products_container .xrx_button_view_all div {
+  display: none;
+}
+.xrx_products_container .xrx_col_toner_desc .xrx_button_view_all {
+  display: inline-block;
+  margin-bottom: 15px;
+}
+.xrx_products_container .xrx_col_toner_desc .xrx_button_view_all:last-child {
+  margin-bottom: 0;
+}
+.xrx_products_container .xrx_contain_text_hero_banner .xrx_button_view_all:hover {
+  color: #D92231;
+}
+.xrx_language_he .xrx_products_container .xrx_contain_text_hero_banner .xrx_button_view_all:hover {
+  padding-left: 32px;
+  padding-right: 12px;
+}
+.xrx_products_container .xrx_contain_text_hero_banner .xrx_container_buttons_b_r .xrx_button_view_all {
+  margin-left: 0;
+  padding-left: 12px;
+  max-width: 48%;
+  display: inline-flex;
+}
+.xrx_language_he .xrx_products_container .xrx_contain_text_hero_banner .xrx_container_buttons_b_r .xrx_button_view_all {
+  padding-right: 12px;
+  padding-left: 32px;
+}
+.xrx_products_container .xrx_contain_text_hero_banner .xrx_container_buttons_b_r .xrx_products_button {
+  margin-right: 24px;
+  max-width: 48%;
+  display: inline-flex;
+}
+.xrx_language_he .xrx_products_container .xrx_contain_text_hero_banner .xrx_container_buttons_b_r .xrx_products_button {
+  margin-left: 24px;
+  margin-right: 0;
+  padding-left: 32px;
+  padding-right: 12px;
+}
+.xrx_products_container .xrx_button_bb_gray {
+  display: inline-table;
+  padding: 7px 10px;
+  border: 1px solid #c1c1c1;
+  background-color: #F3F3F3;
+  cursor: pointer;
+}
+.xrx_products_container .xrx_button_bb_gray > span, .xrx_products_container .xrx_button_bb_gray > .xrx_image_arrow_right {
+  display: inline-block;
+  vertical-align: middle;
+}
+.xrx_products_container .xrx_button_bb_gray > span {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 500;
+  font-size: 1.2em;
+  margin-right: 10px;
+}
+.xrx_products_container .xrx_button_bb_gray > .xrx_image_arrow_right {
+  width: 10px;
+  height: 14px;
+  background-image: url("../images/xrx-products/arrow_right_red.png");
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.xrx_products_container .xrx_button_bb_gray:hover > span {
+  color: #D92231;
+}
+.xrx_products_container .xrx_link_underline_red {
+  color: #D92231;
+  text-decoration: underline;
+  font-size: 1.2em;
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 500;
+}
+.xrx_products_container .xrx_link_underline_red:hover, .xrx_products_container .xrx_link_underline_red:visited {
+  color: #D92231;
+}
+.xrx_products_container .xrx_link_red {
+  color: #D92231;
+}
+.xrx_products_container .xrx_link_underline_black {
+  color: #333;
+  text-decoration: underline;
+  font-size: 1em;
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 500;
+}
+.xrx_products_container .xrx_link_underline_black:hover, .xrx_products_container .xrx_link_underline_black:visited {
+  color: #333;
+}
+.xrx_products_container .xrx_arrow_slider_gray {
+  background-position: center;
+  background-size: 31% auto;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.xrx_products_container .xrx_arrow_slider_gray.xrx_arrow_left {
+  background-image: url("../images/xrx-products/arrow_left_slider.png");
+}
+.xrx_products_container .xrx_arrow_slider_gray.xrx_arrow_right {
+  background-image: url("../images/xrx-products/arrow_right_slider.png");
+}
+.xrx_products_container .xrx_clearfix {
+  clear: both;
+}
+.xrx_products_container .xrx_arrow_red_generic {
+  width: 32px;
+  height: 32px;
+  background-color: #D92231;
+  background-image: url("../images/xrx-products/arrow_right.png");
+  background-position: center;
+  background-size: 31% auto;
+  background-repeat: no-repeat;
+}
+.xrx_products_container .xrx_arrow_red_generic:hover {
+  background-color: white;
+  border: 1px solid #c1c1c1;
+  background-image: url("../images/xrx-products/arrow_right_red.png");
+}
+.xrx_products_container .xrx_combobox {
+  font-size: 1.2em;
+  padding: 0.2em 0.5em;
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 500;
+}
+.xrx_products_container .xrx_combobox:hover {
+  color: white;
+  background-color: #D92231;
+}
+.xrx_products_container .xrx_button_simple {
+  font-size: .9em;
+  padding: 1px 3px;
+  border: 1px solid #c1c1c1;
+  cursor: pointer;
+}
+.xrx_products_container .xrx_button_simple:hover {
+  border: 1px solid #D92231;
+  color: #D92231;
+}
+.xrx_products_container .xrx_button_simple:hover a {
+  color: #D92231;
+}
+.xrx_products_container .xrx_div_stars {
+  margin-left: 1em;
+}
+.xrx_products_container .xrx_div_stars > div {
+  display: inline-block;
+  vertical-align: top;
+  width: 18px;
+  height: 18px;
+  background-size: cover;
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("../images/xrx-products/star_empty.png");
+}
+.xrx_products_container .xrx_div_stars > div.xrx_cover_ie8 {
+  background-image: url("../images/xrx-products/ie8/star_empty.png");
+}
+.xrx_products_container .xrx_div_stars > div.active_star {
+  background-image: url("../images/xrx-products/star_fill.png");
+}
+.xrx_products_container .xrx_div_stars > div.active_star.xrx_cover_ie8 {
+  background-image: url("../images/xrx-products/ie8/star_fill.png");
+}
+.xrx_products_container .xrx_toggle_products {
+  display: table;
+}
+.xrx_products_container .xrx_toggle_products > div {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid #c1c1c1;
+  font-size: 0.9em;
+  padding: 0px 5px;
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  cursor: pointer;
+}
+.xrx_products_container .xrx_toggle_products > div a, .xrx_products_container .xrx_toggle_products > div a:hover {
+  color: #737373;
+}
+.xrx_products_container .xrx_toggle_products .active {
+  background-color: #737373;
+  border-color: #737373;
+}
+.xrx_products_container .xrx_toggle_products .active a, .xrx_products_container .xrx_toggle_products .active a:hover {
+  color: #fff;
+}
+.xrx_products_container .xrx_next_step_cell {
+  display: block;
+  text-decoration: none;
+}
+.xrx_products_container .xrx_next_step_cell span, .xrx_products_container .xrx_next_step_cell .xrx_arrow_next {
+  display: inline-block;
+  vertical-align: middle;
+}
+.xrx_products_container .xrx_next_step_cell span {
+  font-size: 1em;
+  color: #333;
+  padding-right: 5px;
+}
+.xrx_language_he .xrx_products_container .xrx_next_step_cell span {
+  padding-right: 0;
+  padding-left: 5px;
+}
+.xrx_products_container .xrx_next_step_cell .xrx_arrow_next {
+  width: 15px;
+  height: 15px;
+  background-image: url("../images/xrx-products/arrow_right_red.png");
+  background-position: center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.xrx_language_he .xrx_products_container .xrx_next_step_cell .xrx_arrow_next {
+  transform: scaleX(-1);
+}
+.xrx_products_container .xrx_next_step_cell:hover span {
+  color: #D92231;
+}
+.xrx_products_container .xrx_feature_xrx_product {
+  margin-right: 2em;
+  display: inline-block;
+  vertical-align: middle;
+}
+.xrx_products_container .xrx_feature_xrx_product span, .xrx_products_container .xrx_feature_xrx_product ul {
+  display: block;
+}
+.xrx_products_container .xrx_feature_xrx_product span {
+  font-size: 1.3em;
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 500;
+}
+.xrx_products_container .xrx_feature_xrx_product .xrx_quality_feature > div {
+  display: inline-block;
+  vertical-align: middle;
+  width: 21px;
+  height: 8px;
+  border: 1px solid #D92231;
+}
+.xrx_products_container .xrx_feature_xrx_product .xrx_quality_feature > div.active {
+  background-color: #D92231;
+}
+.xrx_products_container .xrx_tag_footnote {
+  display: inline-block;
+  width: 100%;
+  font-size: 12px;
+  padding: 5px 15px 0;
+  /*span.xrx_tag_footnote_note {
+  	a , a:hover {
+  		color: $xerox-red;
+  	}
+  }*/
+}
+@media screen and (min-width: 970px) {
+  .xrx_products_container .xrx_tag_footnote {
+    padding: 5px 20px 0;
+  }
+}
+.xrx_products_container .xrx_tag_footnote .xrx_tag_footnote_ordinal {
+  padding-right: 10px;
+}
+.xrx_products_container .xrx_tag_footnote span, .xrx_products_container .xrx_tag_footnote font, .xrx_products_container .xrx_tag_footnote span font {
+  font-size: 12px;
+  color: #333;
+}
+.xrx_products_container .xrx_products_module.xrx_products_module_specs .xrx_tag_footnote {
+  padding-left: 0;
+  padding-right: 0;
+}
+.xrx_products_container .xrx_products_button:hover,
+.xrx_products_container .xrx_products_button:active {
+  color: white;
+}
+.xrx_products_container .xrx_products_module {
+  width: 100%;
+  margin-top: 2em;
+}
+.xrx_products_container .xrx_products_module .xrx_products_title_module {
+  font-size: 2em;
+  padding-left: 1em;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.xrx_language_he .xrx_products_container .xrx_products_module .xrx_products_title_module {
+  float: right;
+}
+.xrx_products_container .xrx_products_module .xrx_products_see_all_module {
+  padding-right: 0;
+  text-align: right;
+  float: right;
+}
+.xrx_language_he .xrx_products_container .xrx_products_module .xrx_products_see_all_module {
+  text-align: left;
+  float: left;
+}
+.xrx_products_container .xrx_products_module .xrx_products_see_all_module a {
+  color: #333333;
+}
+.xrx_products_container .xrx_products_module .xrx_products_see_all_module a h4 {
+  font-size: 1.5em;
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 500;
+  margin-top: 1.3em;
+  display: inline-block;
+}
+.xrx_products_container .xrx_products_module .xrx_products_see_all_module a .xrx_red_arrow {
+  width: 0.8em;
+  height: 1.2em;
+  margin-left: 1em;
+  display: inline-block;
+  background-image: url("../images/xrx-products/arrow_right_red.png");
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.xrx_language_he .xrx_products_container .xrx_products_module .xrx_products_see_all_module a .xrx_red_arrow {
+  margin-left: 0;
+  margin-right: 1em;
+  transform: scaleX(-1);
+}
+.xrx_products_container .xrx_products_module .xrx_products_see_all_module a:hover {
+  color: #D92231;
+}
+
+/**
+* Set font family for xerox products general page
+**/
+.xrx_products_container a, .xrx_products_container h1, .xrx_products_container h2, .xrx_products_container h3, .xrx_products_container h4, .xrx_products_container li, .xrx_products_container span, .xrx_products_container p {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+}
+
+/**
+* Media queries overrided for avoid 1170px breakpoint
+**/
+@media (min-width: 768px) {
+  /**
+  * Style overrided from boostrap css
+  **/
+  .container {
+    width: 100%;
+  }
+}
+/**
+* Override for greater 970px fluid
+**/
+@media (min-width: 970px) {
+  /**
+  * Style overrided from boostrap css
+  **/
+  .container {
+    width: 100%;
+  }
+}
+/**
+* Override override for 1200px max width screens
+**/
+@media screen and (min-width: 1200px) {
+  /**
+  * Style overrided from boostrap css
+  **/
+  .container {
+    width: 1170px;
+  }
+}
+.no-padding {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .container {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button {
+  position: relative;
+  display: inline-block;
+  padding: 5px 10px 5px 10px;
+  margin: 0px;
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button.red {
+  background-color: #D92231;
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button.red.cta:after {
+  display: inline-block;
+  content: "";
+  vertical-align: middle;
+  width: 9px;
+  height: 12px;
+  background-repeat: no-repeat;
+  background-image: url("../images/xrx-products/new_icons/white_button_arrow.png");
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button.red:hover {
+  background-color: #fff;
+  border: 1px solid #d7d7d7;
+  text-decoration: none;
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button.red:hover.cta:after {
+  background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button.red:hover span {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-weight: 400;
+  color: #D92231;
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button span {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  vertical-align: middle;
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button.red > span {
+  color: #fff;
+}
+.xrx_bootstrap_button_tag a.xrx_bootstrap_button .xrx_bootstrap_button_arrow {
+  display: inline-block;
+  width: 5px;
+}
+
+.depthpath {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  color: #999;
+  padding-bottom: 20px;
+}
+.depthpath a, .depthpath .xrx_cta_carat {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-size: inherit;
+  color: #666;
+}
+.depthpath a {
+  text-decoration: none;
+}
+.depthpath a:hover {
+  color: #D92231;
+}
+
+/* bootstrap-hero stub. */
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_title {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 20px;
+  line-height: 25px;
+  color: #333;
+  margin: 0px 0px 0px 0px;
+  padding: 20px 0px 10px 0px;
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_copy {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 19px;
+  color: #333;
+  margin: 0px 0px 0px 0px;
+  padding: 10px 0px 10px 0px;
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_link {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  margin: 0px;
+  background-color: #D92231;
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button:after {
+  display: inline-block;
+  content: "";
+  vertical-align: middle;
+  width: 9px;
+  height: 12px;
+  background-image: url("../images/xrx-products/new_icons/white_button_arrow.png");
+  background-repeat: no-repeat;
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button:hover {
+  background-color: #fff;
+  color: #D92231;
+  border: 1px solid #d7d7d7;
+  text-decoration: none;
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button:hover:after {
+  background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button:hover span {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  color: #D92231;
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button span {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  color: #fff;
+  font-size: 18px;
+  line-height: 23px;
+  vertical-align: middle;
+}
+.xrx_bootstrap_hero_tag > .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button .xrx_bootstrap_hero_button_arrow {
+  display: inline-block;
+  width: 5px;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero {
+  height: 140px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media screen and (min-width: 768px) {
+  .xrx_bootstrap_hero_tag .xrx_bootstrap_hero {
+    height: 440px;
+  }
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content {
+  width: 400px;
+  height: inherit;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_title {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  line-height: 47px;
+  color: #fff;
+  margin: 0px 0px 0px 0px;
+  padding: 70px 20px 20px 20px;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_copy {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 25px;
+  color: #fff;
+  margin: 0px 0px 0px 0px;
+  padding: 20px 20px 20px 20px;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_link {
+  margin: 0px 0px 0px 0px;
+  padding: 20px 20px 20px 20px;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button {
+  position: relative;
+  display: inline-block;
+  padding: 11px 15px 11px 15px;
+  margin: 0px;
+  background-color: #D92231;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button:after {
+  display: inline-block;
+  content: "";
+  vertical-align: middle;
+  width: 9px;
+  height: 12px;
+  background-image: url("../images/xrx-products/new_icons/white_button_arrow.png");
+  background-repeat: no-repeat;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button:hover {
+  background-color: #fff;
+  color: #D92231;
+  border: 1px solid #d7d7d7;
+  text-decoration: none;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button:hover:after {
+  background-image: url("../images/xrx-products/new_icons/red_button_arrow.png");
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button:hover span {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  color: #D92231;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button span {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  color: #fff;
+  font-size: 20px;
+  line-height: 25px;
+  vertical-align: middle;
+}
+.xrx_bootstrap_hero_tag .xrx_bootstrap_hero .xrx_bootstrap_hero_content .xrx_bootstrap_hero_link a.xrx_bootstrap_hero_button .xrx_bootstrap_hero_button_arrow {
+  display: inline-block;
+  width: 5px;
+}
+
+/* BOOTSTRAP_PANEL tag */
+.xrx_bootstrap_panel {
+  width: 395px;
+  background-color: #ebebeb;
+  margin: 0 auto;
+  /*>.xrx_bootstrap_button {
+    padding-left:8px;
+    display:inline-block;
+    vertical-align:middle;
+    //margin-top:15px;
+    //margin-left:20px;
+    //margin-bottom: 15px;
+    line-height: 2.5em;
+    >span{
+      font-size:1em;
+    }
+  }*/
+}
+@media screen and (min-width: 768px) {
+  .xrx_bootstrap_panel {
+    min-height: 445px;
+  }
+}
+.xrx_bootstrap_panel .xrx_bootstrap_panel_image {
+  max-height: 145px;
+  max-width: 395px;
+  height: auto;
+  width: auto;
+  display: none;
+}
+@media screen and (min-width: 768px) {
+  .xrx_bootstrap_panel .xrx_bootstrap_panel_image {
+    display: block;
+  }
+}
+.xrx_bootstrap_panel .xrx_bootstrap_panel_title {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+  color: #333333;
+  padding: 20px 20px 10px 20px;
+}
+.xrx_bootstrap_panel .xrx_bootstrap_panel_copy {
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #333333;
+  margin: 10px 20px 0px 20px;
+  padding-bottom: 20px;
+}
+.xrx_bootstrap_panel > .xrx_bootstrap_button_red {
+  background-color: #D92231;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+.xrx_bootstrap_panel > .xrx_bootstrap_button_red:hover {
+  background-color: white;
+  border: 1px solid #c1c1c1;
+}
+.xrx_bootstrap_panel > .xrx_bootstrap_button_red:hover > span {
+  color: #D92231;
+}
+.xrx_bootstrap_panel > .xrx_bootstrap_button_red:hover .xrx_arrow_button {
+  background-image: url("../images/xrx-products/arrow_right_red.png");
+}
+.xrx_bootstrap_panel > .xrx_bootstrap_button_red > span, .xrx_bootstrap_panel > .xrx_bootstrap_button_red > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.xrx_bootstrap_panel > .xrx_bootstrap_button_red > span {
+  padding-right: 0.5em;
+  font-family: "Roboto Condensed",sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
+}
+.xrx_bootstrap_panel > .xrx_bootstrap_button_red .xrx_arrow_button {
+  width: 0.6em;
+  height: 1em;
+  background-image: url("../images/xrx-products/arrow_right.png");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
