@@ -1,0 +1,8 @@
+/* Specific styles for the account management page. */
+.xrx-acct-mgmt .xrx_bootstrap_panel_cell {
+  margin-top: 6px;
+  height: 100%;
+}
+.xrx-acct-mgmt .xrx_bootstrap_panel .xrx_bootstrap_button_tag {
+  margin: 20px 0px 20px 0px;
+}
